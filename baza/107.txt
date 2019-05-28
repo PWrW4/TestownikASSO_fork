@@ -1,1 +1,4 @@
-
+X10
+Czy numer IP serwera to
+Adres serwera skladajacy sie z czterech liczb 8-bitowych?
+Numer identyfikacyjny zainstalowanej karty sieciowej?

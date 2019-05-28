@@ -1,1 +1,4 @@
-
+X10
+Czy polecenie: gcc plik.c -lcurses
+Dolacza podaczas kompilacji biblioteke curses.
+Tworzy plik wynikowy plik.exe.

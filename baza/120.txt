@@ -1,1 +1,4 @@
-
+X01
+W jezyku awk jest zmienna predefiniowana NF okreslajaca liczbe pol w biezacym rekordzie. Czy instrukcja awk '{ print nf }' < inputs wyswietli ilosc pol w rekordzie?
+Tak
+Nie

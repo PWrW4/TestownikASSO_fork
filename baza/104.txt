@@ -1,1 +1,4 @@
-
+X01
+W procesie kmunikacji miedzy procesami wykorzystuje sie lacza komunikacyjne.
+Czy pojedyncze lacze umozliwia przeplyw danych na zmiane w obie strony?
+Lacze tworzone jest funkcja pipe, ktora przekazuje dwa deskryptory, jeden do pisania, drugi do czytania?

@@ -1,1 +1,5 @@
-
+X101
+Czy prawda sa nastepujace pytania dotyczace filtrow:
+filtr grep jest uzyteczny w wyszukiwaniu wzorcow
+filtr awk jest filtrem strumieniowym
+filtr sed jest filtrem strumieniowym

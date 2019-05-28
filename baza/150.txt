@@ -1,1 +1,5 @@
-
+X010
+ W modelu sieci komputerowej ISO :
+Czy adres IP daje sie przedstawic jako liczba 16 bitowa ?
+Czy warstwa transportowa zapewnia ponowne przeslanie pakietu w przypadkujego zagubienia ?
+Czy w adresie klasy C na adres komputera w sieci przeznaczone są 2 bajty ?

@@ -1,1 +1,3 @@
-
+X1
+program make umozliwia zarzadanie zlozonymi programami
+Czy polecenie make –f MakeFile2 spowoduje wywolanie polecenia make przy uzyciu regul zawartych w pliku MakeFile2 ?

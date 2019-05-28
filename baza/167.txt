@@ -1,1 +1,5 @@
-
+X010
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+System RCS (Revision Control System) sluzy do kontroli dostepu.
+Majac otwarty plik,  ktorego deskryptorem jest dp    polecenie: lseek(dp,0L,SEEK_END);         da w wyniku dlugosc pliku.
+Majac otwarty deskryptor pliku dp polecenie     lockf(dp); przerywa zwiazek pomiedzy deskryptorem pliku dp i jego plikiem.

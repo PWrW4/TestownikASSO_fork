@@ -1,1 +1,3 @@
-
+X1
+Mamy zadeklarowana strukture jak ponizej struct komunikat { long mtype; char mtext[80]; } Bufor; Program utworzyl kolejke komunikatow o identyfikacji IDKol,po czym wykonal instrukcje:     Bufor.mtype = 5; strcpy(Bufor.mtext, "Ala ma kota."); msgsnd(IDKol,&Bufor,sizeof(Bufor),IPC_NOWAIT).
+Czy nastepujace wywolanie w innym programie spowoduje usuniecie z kolejki wyslanego w ten sposob komunikatu, po wczesniejszym poprawnym uzyskaniu dostepu do kolejki komunikatow? msgctl(IDKol,IPC_RMID,0);

@@ -1,1 +1,5 @@
-
+X101
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Polecenie "help | more" spowoduje wyswietlenie pomocy stronami.
+Polecenie "sed 10q" kasuje 10 pierwszych linijek danych.
+Ponizszy fragment skryptu wykona sie poprawnie, to znaczy zgodnie z oczekiwaniem wynikajacym z zapisu. #!/bin/bash case $1 in -a) echo parametr -a;; -b) echo parametr -b;; *) echo parametr nieznany;;esac

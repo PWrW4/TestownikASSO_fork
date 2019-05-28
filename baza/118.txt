@@ -1,1 +1,4 @@
-
+X01
+Dane jest polecenie: grep `$^' pliczek.txt. Czy wykonanie takiego polecenia wyszuka wszystkie puste wiersze, czyli takie, w ktorych koniec wiersza wystepuje zaraz po jego poczatku?
+Tak
+Nie

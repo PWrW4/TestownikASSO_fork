@@ -1,1 +1,4 @@
-
+X01
+Czy warstwa sieciowa :                                                  
+wysyla dane i sprawdza czy doszly pod wskazany adres ?
+Nie ma poprawnej odpowiedzi

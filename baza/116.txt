@@ -1,1 +1,6 @@
-
+X1111
+Czy sesja TCP umożliwia:
+komunikacje pomiędzy różnymi systemami pochodzšcych od wielu różnych dostawców
+potwierdzenie odbioru pakietów
+zachowanie kolejności przesyłania pakietów
+powtórne przesyłanie pakietów uszkodzonych lub zagubionych

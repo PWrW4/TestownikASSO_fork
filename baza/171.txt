@@ -1,1 +1,4 @@
-
+X11
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Za pomoca gniazda mozliwa jest komunikacja miedzy procesami dzialajacymi na roznych komputerach w sieci  Internet
+Gniazdo stworzone za pomoca polecenia: socket(AF_INET,SOCK_STREAM,0); gwarantuje,  ze dane przesylane przez to gniazdo nie zostana przemieszane.

@@ -1,1 +1,3 @@
-
+X1
+Dane sa funkcje msgget() i msgsnd().
+Czy wystarcza one do pelnej, dwukierunkowej komunikacji miedzy procesami?

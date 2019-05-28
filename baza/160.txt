@@ -1,1 +1,4 @@
-
+X01
+Czy ponizsze stwierdzenie jest prawdziwe
+Blokady plikow zdefiniowane w procesie macierzystym sa dziedziczone przez podproces. 
+Nie ma poprawnej odpowiedzi

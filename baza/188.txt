@@ -1,1 +1,3 @@
-
+X1
+Dany jest program:#include<curses.h> void main(void){ initscr(); move(2,5); addstr("To jest napis."); endwin(); }
+Czy jego wykonanie spowoduje pojawienie sie na ekranie okienka z napisem To jest napis.

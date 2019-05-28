@@ -1,1 +1,6 @@
-
+X101
+Zalozmy, ze proces probuje wyslac dane (za pomoca write lub send) do gniazda, ktore zostalo wlasnie odlaczone (zamkniete).
+Czy w takiej sytuacji, proces otrzyma sygnal SIGPIPE?
+Czy probujac odbierac dane wysylane przez gniazdo, ktore zostalo wlasnie odlaczone (funkcje read lub recv),
+proces otrzyma sygnal SIGPIPE?
+Czy zwrocenie przez funkcje read() lub recv() wartosci zero, oznacza koniec polaczenia?

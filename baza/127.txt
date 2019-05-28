@@ -1,1 +1,4 @@
-
+X00
+Czy ponizsze stwierdzenie jest prawdziwe?
+Najwyzsza warstwa w modelu sieci ISO/OSI odpowiada za fizyczne polaczenie miedzy komputerami.
+W komunikacji typu broadcast mamy do czynienia z zadeklarowana grupa odbiorcow sieciowych.

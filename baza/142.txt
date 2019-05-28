@@ -1,1 +1,4 @@
-
+X01
+Czy wywolanie w programie funkcji zdefiniowanej jako: int listen(int sock_fd, int queue_size); spowoduje zawieszenie programu, az do nadejscia zadania polaczenia od klienta?
+Tak
+Nie

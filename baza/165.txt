@@ -1,1 +1,4 @@
-
+X10
+Skrypt zostal wywolany nastepujaco: "skrypt param1 param2"
+Zmienna srodowiskowa $0  zawiera nazwe skryptu - "skrypt"
+Zmienna $* zawiera liczbe przekazanych parametrow (2).

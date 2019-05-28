@@ -1,1 +1,4 @@
-
+X10
+Czy mechanizm semaforow moze byc uzyty do zapewnienia "wzajemnego wykluczania" - czyli sytuacji, gdy tylko jeden proces moze wykonywac w danym momencie okreslony obszar kodu ?
+Tak
+Nie

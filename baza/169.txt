@@ -1,1 +1,6 @@
-
+X1000
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Unix jest wielozadaniowym systemem  operacyjnym pozwalajacym na jednoczesne   wykonywanie wielu procesow.
+Dwa rozne procesy moga otrzymac ten sam identyfikator procesu (PID).
+Proces potomny automatycznie konczy prace gdy proces macierzysty zakonczyl prace nieprawidlowo.
+Majac otwarty potok FIFO mozemy odczytywac dane wielokrotnie.

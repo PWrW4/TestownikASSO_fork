@@ -1,1 +1,3 @@
-
+X1
+Dany jest fragment programu: handle=open("dane.txt",O_RDWR); lseek(handle,0,SEEK_END); write(handle,&bufor,sizeof(bufor)); close(handle); 
+Czy jego wykonanie spowoduje dopisanie do pliku dane.txt zawartosci bufora? Zakladamy, ze plik dane.txt istnieje.

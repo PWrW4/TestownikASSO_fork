@@ -1,1 +1,4 @@
-
+X01
+Mamy nastepujacy skrypt : pozdrowienie=Halo echo pozdrowienie
+Czy wywolanie tego skryptu spowoduje wyswietlenie na ekranie tekstu „Halo”?
+Nie ma poprawnej odpowiedzi na to pytanie

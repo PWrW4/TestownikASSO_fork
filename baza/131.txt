@@ -1,1 +1,4 @@
-
+X10
+Czy komenda ls -l | grep -v '.[cho]$' :
+pomija listowanie plikow konczacych sie na '.c', '.h' oraz '.o' ?
+pomija listowanie plikow konczacych sie na '.cho' ?

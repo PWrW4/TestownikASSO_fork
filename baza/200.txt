@@ -1,1 +1,4 @@
-
+X01
+Dany jest adres internetowy w postaci numerycznej 156.17.5.1                              
+czy w adresie tym przeznacza sie na 1 bajt na numer sieci i 3 bajty na adres komputera w sieci ?
+Nie ma poprawnej odpowiedzi

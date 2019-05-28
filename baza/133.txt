@@ -1,1 +1,4 @@
-
+X10
+Czy prawdziwe sa pytania dotyczace procesow systemu Unix?
+Kazdy proces (oprocz 0) jest tworzony za pomoca funkcji systemowej fork.
+Jadro identyfikuje kazdy proces za pomoca jego numeru zwanego deskryptorem.

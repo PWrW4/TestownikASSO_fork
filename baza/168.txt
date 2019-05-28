@@ -1,1 +1,4 @@
-
+X01
+Zalozmy, ze istnieje plik o nazwie "plik"
+Polecenie:    open("plik",O_RDWR);      otworzy plik tylko do zapisu.
+Nie ma poprawnej odpowiedzi

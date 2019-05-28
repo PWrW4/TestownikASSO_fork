@@ -1,1 +1,4 @@
-
+X10
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Polecenie "cat plik1 plik2 > plik3" spowoduje polaczenie dwoch plikow w jeden
+Polecenie "ls -s" wyswitli wydruk pelnych dnaych o plikach

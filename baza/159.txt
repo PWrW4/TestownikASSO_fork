@@ -1,1 +1,4 @@
-
+X01
+funkcja fork sluzy do tworzenia procesow potomnych
+Jeżeli funkcja fork zwraca 0, to oznacza, ze znajdujemy się w procesie macierzystym.
+Nie ma poprawnej odpowiedzi

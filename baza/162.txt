@@ -1,1 +1,3 @@
-
+X1
+Utorzylismy gniazda unixowe przy pomocy funkcji socket
+Czy do komunikacji poprzez te gniazda możemy uzywac funkcji niskiego poziomu read i write ?

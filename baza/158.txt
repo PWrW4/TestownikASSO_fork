@@ -1,1 +1,3 @@
-
+X1
+Odpowiedz na pytanie
+Czy funkcja popen pozwala programowi na urochomienie innego programu jako nowego procesu oraz na przekazywanie lub odbieranie od niego danych ?

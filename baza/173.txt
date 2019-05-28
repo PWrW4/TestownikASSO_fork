@@ -1,1 +1,5 @@
-
+X110
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Zalozmy ze mamy otwarty plik, i jego deskryptorem jest fd.  Polecenie: lseek(fd, 0L, SEEK_CUR);     da w wyniku aktualna pozycje w pliku.
+Zalozmy ze mamy otwarty plik, i jego deskryptorem jest fd.  Polecenie: lockf(fd, F_LOCK, 0);  zablokuje plik do konca.
+Czy to prawda, ze jesli w danym katalogu istnieje poprawnie napisany makefile to polecenie make wymaga dodatkowych parametrow wywolania ?

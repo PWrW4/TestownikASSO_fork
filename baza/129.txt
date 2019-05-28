@@ -1,1 +1,4 @@
-
+X10
+Czy na model systemu Unix skladaja sie nastepujace jednostki podstawowe:
+plik, proces
+plik, pamiec buforowa, proces

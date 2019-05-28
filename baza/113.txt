@@ -1,1 +1,6 @@
-
+X1001
+Czy polecenie:
+"help | more" spowoduje wyświetlenie pomocy stronami
+"ls" wyświetli calą zawartość katalogu
+"CD" spowoduje przejscie do domowego katalogu
+"sed 10q" przepuszcza 10 pierwszych linijek

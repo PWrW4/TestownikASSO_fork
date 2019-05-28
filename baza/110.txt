@@ -1,1 +1,5 @@
-
+X101
+Prawie każdy system UNIX-owy dostarczany jest wraz z różnorodnym zestawem schelli. Czy shell:
+użytkownicy UNIX-a mogš wybrać w trakcie pracy ("locie")
+jest jądrem systemu
+sh istnieje

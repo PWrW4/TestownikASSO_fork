@@ -1,1 +1,5 @@
-
+X111
+Czy w Systemie V IPC wykorzystuje sie ponizsze sposoby komunikacji miedzyprocesowej
+Kolejki komunikatow
+Semafory
+Pamiec wspoldzielona

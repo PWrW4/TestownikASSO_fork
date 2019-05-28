@@ -1,1 +1,3 @@
-
+X1
+Czy funkcja zdefiniowana jako: int msgctl(int msqid, int command, struct msqid_ds *buf);
+Umozliwia uzyskanie informacji o stanie kolejki, zmiane niektorych ograniczen zwiazanych z kolejka oraz calkowite usuniecie kolejki z systemu ?

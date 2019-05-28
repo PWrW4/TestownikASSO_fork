@@ -1,1 +1,7 @@
-
+X11111
+Za pomocą poleceń Bash można tworzyć sensowne programy i makra. Czy powłoka udostępnia następujące struktury:
+if warunek then ... else ... fi
+case wyraz in wrzorzec) ...;
+for ... in ... do ... done
+until ... do ... done
+while ... do ... done

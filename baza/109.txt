@@ -1,1 +1,4 @@
-
+X11
+Czym wyróżnia się system UNIX od DOS-a 6.22
+Wielodostępnością
+DOS wykonuje jedno zadnie na raz. UNIX jest wielozadaniowy i dlatego może uruchamiać więcej niż jeden program w danym momencie

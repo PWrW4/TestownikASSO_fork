@@ -1,1 +1,5 @@
-
+X101
+Czy RCS
+prowadzi historię zmian
+tworzy plik wykonawczy
+archiwizuje wiele wersji pliku

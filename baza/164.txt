@@ -1,1 +1,3 @@
-
+X1
+Wywolanie systemowe select pozwala programowi zaczekac az nadejda dane wejsciowe do kilku niskopoziomowych deskryptorow jednoczesnie
+Czy istnieje mozliwosc wywolania funkcji select w taki sposób, aby oczekiwanie na nadjescie danych trwalo jedynie kilka mikrosekund ?

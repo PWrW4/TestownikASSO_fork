@@ -1,1 +1,4 @@
-
+X11
+Funkcje lockf wywoluje sie w systemie Unix nastepujaco lockf (filedescriptor, function, blocksize). Definiowany obszar roapoczyna sie od niezacej pozycji w pliku.
+Czy wywolanie funkcji z argumentem block size = -4 spowoduje, ze zajmowany obszar skonczy si 4 bajty przed biezaca pozycja?
+Czy wywolanie funkcji z argumentem function = F_LOCK zajmie podany obszar z blokowaniem?

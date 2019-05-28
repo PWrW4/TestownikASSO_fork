@@ -1,1 +1,4 @@
-
+X10
+Standardowo, kazdy program Unixowy, ma otwarte trzy strumienie. Jeden wejsciowy "stdin", jeden wyjsciowy "stdout", oraz jeden do diagnozowania i przesylania komunikatow bledow "stderr".
+Czy ktorykolwiek z tych strumieni, jest domyslnie buforowany ?
+Czesto powazne bledy, zaistniale w zwiazku z dzialaniem programu, nie zdaza zostac wyswietlone na ekranie, przed zawieszeniem sie programu. Dobrym sposobem na takie sytuacje, w fazie testowania programow, jest wysylanie komunikatow bledow, prosto do ktoregos z portow wyjsciowych komputera. Czy w zwiazku z tym, wyjscie bledow "stderr" jest standardowo zwiazane z drukarka?

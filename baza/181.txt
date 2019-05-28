@@ -1,1 +1,4 @@
-
+X11
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+PID oznacza w skrocie identyfikator procesu.
+Funkcja "pipe" udostepnia mechanizm przekazywanie danych miedzy dwoma programami.

@@ -1,1 +1,3 @@
-
+X1
+Odpowiedz na pytanie
+Czy wywolanie funkcji lockf(desk,F_LOCK,0) spowoduje zablokowanie zawartosci pliku o deskryptorze desk od aktualnej pozycji do konca pliku ?

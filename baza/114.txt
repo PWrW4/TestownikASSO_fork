@@ -1,1 +1,6 @@
-
+X0111
+Czy polecenie:
+lockf(wskPliku, "nazwapliku", 1) - odblokowuje plik
+lseek (wskPliku, 0, SEEK_SET) - ustawia wskaźnik pliku na jego początkowej pozycji
+initscr() - czyści ekran
+endwin() - zamyka okno 

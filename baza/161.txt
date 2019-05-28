@@ -1,1 +1,3 @@
-
+X1
+Jeden z argumentow funkcji socket tworzacej gniazda okresla charakterystyke komunikacji dla nowego gniazda
+Czy SOCK_DGRAM oznacza uporzadkowany, niezawodny, polaczeniowy i dwukierunkowy strumien bajtow?

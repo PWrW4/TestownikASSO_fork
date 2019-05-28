@@ -1,1 +1,6 @@
-
+X0010
+#!/bin/sh shift for i in $* do echo "$i" echo '$i' echo $i > test.txt done   Wywolujemy go z parametrami      gosia ania staszek
+Czy polecenie shift uruchamia interpreter sh jesli istnieje plik t ?
+Czy w pierwszym przebiegu petli wyswietli sie imie gosia ?
+Czy dla kazdego przebiegu petli jako pierwsze bedzie sie wyswitlalo imie a nastepnie tekst $i ?
+Czy plik test.txt bedzie zawieral imiona ania i staszek ?

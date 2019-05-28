@@ -1,1 +1,3 @@
-
+X1
+Czy polecenie " chmod go=r BRONZE" :
+ustawia dla grupy i innych uzytkownikow prawo czytania pliku BRONZE z usunieciem pozostalych praw ?

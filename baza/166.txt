@@ -1,1 +1,4 @@
-
+X01
+Polecenie "grep '^[ab]' plik"
+Szuka w pliku o nazwie plik wierszy konczacych sie na a lub b.
+Nie ma poprawnej odpowiedzi

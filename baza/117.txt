@@ -1,1 +1,4 @@
-
+X01
+Odpowiedz, czy poniższe stwierdzenie jest prawdziwe: W jezyku programowania awk wystepuje konstrukcja switch / case.
+Tak
+Nie

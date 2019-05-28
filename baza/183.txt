@@ -1,1 +1,5 @@
-
+X111
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Gniazdo jest mechanizmem komunikacyjnym, ktory pozwala na implementacje systemow klient-serwer albo na lokalnym komputerze, albo w sieciach.
+Adres IP sklada sie z czterch liczb z ktorych kazda jest mniejsza od  256
+Protokól TCP sluzy do niezawodnego przesylania informacji.

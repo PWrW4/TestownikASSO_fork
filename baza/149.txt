@@ -1,1 +1,6 @@
-
+X1100
+Zalozmy ze mamy otwarty plik (i jego filedeskryptorem jest fd)
+Czy polecenie :       lseek(fd, 0L, SEEK_CUR); da w wyniku aktualna pozycje w pliku ?
+Czy polecenie :  lockf(fd, F_LOCK, 0);      zablokuje plik do konca ?
+Jezeli plik fd jest juz zablokowany, to czy polecenie : lockf(fd, F_TLOCK ,0); bedzie czekac do momentu, az plik zostanie zwolniony ?
+Czy jesli w danym katalogu istnieje poprawnie napisany makefile topolecenie make wymaga dodatkowych parametrow wywolania ?

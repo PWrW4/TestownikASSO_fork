@@ -1,1 +1,3 @@
-
+X1
+Mamy otwarty plik, ktorego deskryptorem jest handle. Wykonano instrukcje lockf(handle,F_LOCK,10);
+Czy spowodowala ona zablokowanie pliku do dziesiatego bajtu ?

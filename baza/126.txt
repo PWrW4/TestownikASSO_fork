@@ -1,1 +1,4 @@
-
+X10
+W sieci INTERNET mamy 4-bajtowe adresy
+Czy w klasie A pierwszy bajt jest adresem sieci (a pozostale adresem komputera) z czego pierwszym bitem jest 0,mozliwe sa 128 sieci po 16 mln komputerow w kazdej?
+Czy do adresow klasy A zaliczaja sie adresy w sieci Politechniki Wroclawskiej?

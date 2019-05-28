@@ -1,1 +1,3 @@
-
+X1
+Po wykonaniu komendy ls -l otrzymano liste plikow zawierajaca m.in.: -rw-r--r--   1 mkorosze ezi3          223 Nov 11 16:58 xxx -rw-r--r--   1 mkorosze ezi3          1213 Nov 11 16:42 yyy -rwxr-xr--   1 mkorosze ezi3        11979 Dec 27 20:05 zus
+Czy czlonkowie grupy ezi3 moga zapisywac zmiany w pliku zus?

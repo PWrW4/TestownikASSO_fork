@@ -1,1 +1,5 @@
-
+X001
+Czy pakiet IPC w Systemie V sklada sie z 3 nastepujacych mechanizmow:
+komunikatow,szlabanow,pamieci oddzielnej
+komunikatow,kolejek,pamieci dzielonej
+komunikatow,semaforow,pamieci dzielonej

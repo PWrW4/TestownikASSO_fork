@@ -1,1 +1,3 @@
-
+X1
+Dana jest instrukcja z biblioteki curses  wmove(okienko,2,0);
+Czy wykonanie spowoduje przesuniecie okienka na ekranie o dwie pozycje w dol?

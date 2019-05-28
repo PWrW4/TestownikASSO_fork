@@ -1,1 +1,3 @@
-
+X1
+Odpowiedz na nastepujace pytanie 
+Czy proces jest to pojedynczy program wykonujacy sie we wlasnej wirtualnej  przestrzeni adresowej;

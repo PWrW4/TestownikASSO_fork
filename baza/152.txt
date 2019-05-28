@@ -1,1 +1,3 @@
-
+X1
+Mamy nastepujacy skrypt :for tekst in ala ma kota do echo $tekst done
+Czy wywolanie tego skruptu spowoduje pojawienie się na ekranie  : ala \n ma \n kota ?

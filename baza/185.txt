@@ -1,1 +1,4 @@
-
+X01
+Czy ponizsze stwierdzenie jest prawdziwe ?
+Skrypty napisane w jezyku awk dzialaja na plikach tekstowych i binarnych.
+Nie ma prawidłowej odpowiedzi

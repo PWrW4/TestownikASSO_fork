@@ -1,1 +1,3 @@
-
+X1
+Czy wydanie polecenia  " emacs & " :
++spowoduje wywolanie edytora emacs jako procesu w tle ?

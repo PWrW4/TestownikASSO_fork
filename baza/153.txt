@@ -1,1 +1,3 @@
-
+X1
+Odpowiedz na pytanie :
+Czy polecenie test if proba.c testuje, czy istnieje plik o nazwie proba.c ?

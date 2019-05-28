@@ -1,1 +1,3 @@
-
+X1
+Dane jest nastepujace polecenie: grep Bolek bajki.txt | grep Lolek bajki.txt
+Czy po jego wykonaniu zostana wyswietlone wszystkie wiersze znajdujace sie w pliku bajki.txt zawierajace oba szukane wyrazy ?

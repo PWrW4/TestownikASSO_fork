@@ -1,1 +1,4 @@
-
+X01
+Czy polecenie :    who | sort | tee plik | date >> plik                                   
+jest kolejka komunikatow ?
+utworzy plik zawierajacy uporzadkowana liste uzytkownikow systemu i date systemowa ?

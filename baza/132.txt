@@ -1,1 +1,5 @@
-
+X011
+Czy prawdziwe sa stwierdzenia dotyczace rodzajow serwerow:
+serwer iteracyjny-polaczeniowy przesyla dane do klienta przez to samo gniazdko przez, ktore przyjmuje polaczenia.
+serwer iteracyjny-bezpolaczeniowy posiada tylko jedno gniazdko.
+serwer wspolbiezny-polaczeniowy tworzy procesy potomne dla kazdego zgloszenia.

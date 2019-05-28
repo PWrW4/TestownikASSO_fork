@@ -1,1 +1,4 @@
-
+X01
+Utworzono lacze komunikacyjne wykorzystujac funkcje systemowa pipe int pipe(int pdeskr[2]);
+Czy raz odczytane dane moga byc przekazane z powrotem lub tez moga byc powtornie odczytane ?
+Czy procesy komunikujace sie ze soba tym sposobem musza byc ze soba  spokrewnione ?

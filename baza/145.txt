@@ -1,1 +1,5 @@
-
+X110
+Oto przykladowy wynik polecenia ls -l : -rw-rw-rw- 1 root root 395 May 9 1998 plik1.c -rw-rw-rw- 1 root root 3168 May 10 1998 plik2.c -rw-rw-rw- 1 root root 45436 May 7 1998 plik3.c Dodatkowo wiemy, ze w pliku plik2.c wystepuje slowo "unsigned"
+Czy polecenie : ls -l | awk '$5 > 10000 { print $6 " - " $7 }' wypisze tekst "May - 7"
+Czy polecenie: grep unsigned *.[ch] znajdzie jakies pliki ?
+Czy polecenie : cat plik1.c | awk '/[Cc]ase/ {print $0}' wyswietli wszystkie linie pliku plik1.c zawierajace ciag 'CASE'?

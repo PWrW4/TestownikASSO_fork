@@ -1,1 +1,4 @@
-
+X01
+Czy funkcje biblioteki curses: addstr(), addch(), printw() i ich pochodne, bezposrednio po ich wywolaniu wyswietlaja rezultat swojego dzialania na ekranie?
+Tak
+Nie

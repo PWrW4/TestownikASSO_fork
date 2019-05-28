@@ -1,1 +1,4 @@
-
+X01
+Funkcja "select": 
+pozwala na wspoldzielenie gniazda przez dwa serwery
+pozwala programowi zaczekac  az nadejda dane wejsciowe.

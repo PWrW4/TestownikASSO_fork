@@ -1,1 +1,4 @@
-
+X11
+Najszybszy sposob przesylania danych to nie przesylanie ich w ogole. Nadawca i odbiorca wspoldziela pewien obszar pamieci. Dane umieszczone w nim przez nadawce staja sie natychmiast dostepne dla odbiorcy
+Czy w systemie UNIX jednym ze sposobow komunikacji jest pamiec dzielona ?
+Czy w celu synchronizacji komunikujacych sie tym sposobem procesow mozna uzyc semaforow lub komunikatow ?

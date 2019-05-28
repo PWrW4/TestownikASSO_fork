@@ -1,1 +1,5 @@
-
+X111
+Przykladem jednego z bardziej rozbudowanych programow filtrujacych, chetnie uzywanych w systemie UNIX, jest AWK. Wywoluje sie go podajac wzorzec oraz program zawarty pomiedzy klamrami { }, realizujacy pewien szereg operacji na znalezionym fragmencie pliku, pasujacym do wzorca.: awk '/unix/ { print NR }'. Odpowiedz na pytania zwiazane z dzialaniem tak wywolanego programu AWK
+Czy tak wpisana do shella i wywolana komenda, bedzie filtrowala teksty wpisywane z klawiatury ?
+Czy efektem dzialania bedzie podawanie numerow linii, w ktorych znajduje sie wyraz "unix" ?
+Czy w przypadku nie podania programu (opuszczenia ciagu zawartego pomiedzy klamrami { } oraz samych klamer), a zostawienie jedynie samego wzorca spowoduje, iz AWK bedzie wypisywal zawartosc wszystkich linii, ktore odpowiadaja wzorcowi (tzw. akcja domyslna) ?

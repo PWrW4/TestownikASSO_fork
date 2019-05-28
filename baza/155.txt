@@ -1,1 +1,3 @@
-
+X1
+Mamy nastepujacy kod programu: #include<curses.h> int main() { move(5.20);  printw(%s,Hell0 world); refresh(); exit(0);}
+Czy wywolanie tego programu spowoduje pojwaienie się na ekranie tekstu Hello world?

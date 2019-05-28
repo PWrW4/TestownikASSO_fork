@@ -1,1 +1,5 @@
-
+X001
+Czy proces potomny tworzony funkcja fork
+Ma identyfikator pid taki sam jak jego proces macierzysty?
+Dziedziczy blokade dostępu do plików?
+Moze mieć wspólne ze swoim przodkiem pliki, ktore byly otwarte przez przodka przed wywolaniem funkcji fork?

@@ -1,1 +1,6 @@
-
+X0100
+Czy ponizsze stwierdzenie jest prawdziwe ?
+Protokol TCP umozliwia przesylanie oddzielnych pakietow danych i nie gwarantuje dostarczenia danych do adresata, ani odpowiedniej kolejnosci danych u adresata.
+Protokol UDP umozliwia przesylanie oddzielnych pakietow danych i nie gwarantuje dostarczenia danych do adresata, ani odpowiedniej kolejnosci danych u adresata.
+W sieci ETHERNET sa unikalne 5-bajtowe adresy, natomiast adresy w sieci INTERNET sa 4-bajtowe.
+W modelu ISO sieci komputerowej do warstwy transportowej zalicza sie FTP. 

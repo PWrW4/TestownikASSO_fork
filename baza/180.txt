@@ -1,1 +1,4 @@
-
+X11
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Biblioteka "curses" pozwala na tworzenie okien w programie
+Parametr F_TEST mieszczony w funkcji "lockf" wywola testowanie blokad innych procesow.

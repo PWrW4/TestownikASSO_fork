@@ -1,1 +1,5 @@
-
+X110
+Programy uzywajace biblioteki curses najczesciej zaczynaja sie nastepujaca sekwencja rozkazow : initscr(); clear(); refresh(); cbreak(); noecho();
+Czy polecenie cbreak(); zapobiega czekaniu na wcisniecie ENTER za kazdym razem gdy program pobiera dane z klawiatury ?
+Czy polecenie noecho(); zapobiegnie wyswietlaniu znakow w momencie pobierania przez program znakow poprzez getch() ?
+Czy biblioteka curses umozliwia komunikacje miedzy procesami ?

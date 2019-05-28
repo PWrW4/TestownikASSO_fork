@@ -1,1 +1,5 @@
-
+X110
+Czy wywolanie funkcji lockf (handle, F_TLOCK, size):
+spowoduje zablokowanie dostepu do pliku (odczyt/zapis) na obszarze size bajtow ?
+nie dopusic do deadlock'a.
+spowoduje oczekiwanie na dostep do pliku w wypadku gdy jest on zablokowany

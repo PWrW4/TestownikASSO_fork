@@ -1,1 +1,4 @@
-
+X10
+Wykonano dwa polecenia: sed `s/rodzice/dziadkowie/g' rodzina.txt > /tmp/chwilowy, mv /tmp/chwilowy rodzina. Czy zmienily one tekst w oryginalnym pliku rodzina.txt?
+Tak
+Nie

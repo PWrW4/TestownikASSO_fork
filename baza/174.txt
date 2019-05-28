@@ -1,1 +1,3 @@
-
+X1
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Proces jest to pojedynczy program wykonujacy sie we wlasnej wirtualnej przestrzeni adresowej.

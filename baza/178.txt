@@ -1,1 +1,6 @@
-
+X1110
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Powtorne uzycie gniazdka sieciowego moze oznaczac zmiane odbiorcy.
+Serwer wspolbiezny-polaczeniowy tworzy procesy potomne.
+Protokol TCP zapewnia ponowna transmisje danych w przypadku ich zagubienia.
+Nastepujacy fragment programu laczy sie z serwerem sieciowym uslugi FTP i umozliwia transfer plikow pomiedzy komputerami: serveraddr.sin_family=     AF_INET; serveraddr.sin_addr.s_addr=inet_addr(server); serveraddr.sin_port=       htons(getservbyname("ftp")); callrpc(serveraddr, login, password);

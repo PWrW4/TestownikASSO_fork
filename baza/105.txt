@@ -1,1 +1,5 @@
-
+X101
+Czy kolejka FIFO
+Tworzona jest za pomoca funkcji mknod (nazwa, tryb_dostepu)?
+Podczas tworzenia jest otwierana do czytania i pisania?
+Umozliwia taki przeplyw danych, ze pierwszy bajt do niej zapisany bedzie pierwszym bajtem z niej przeczytanym?

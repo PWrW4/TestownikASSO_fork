@@ -1,1 +1,4 @@
-
+X01
+Sygnaly SIGINT,SIGKILL,SIGTERM sluza do tego,  aby zakonczyc prace procesow
+Sygnal SIGKILL jest domyslnym sygnalem wysylanym przez polecenie kill. Jest rowniez uzywany przy zamykaniu UNIXA do zatrzymania uslug systemowych.
+Sygnal  SIGINT  jest generowany przez powloke po nacisnieciu  Ctrl+C.

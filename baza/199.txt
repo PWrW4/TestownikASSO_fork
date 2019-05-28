@@ -1,1 +1,3 @@
-
+X1
+Czy warstwa sieciowa :
+posiada mechanizm ICMP pozwalajacy przesylac komunikaty kontrolne?

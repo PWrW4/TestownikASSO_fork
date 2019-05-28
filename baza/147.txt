@@ -1,1 +1,4 @@
-
+X10
+#!/bin/sh if test -f test.txt then finger grzesio fi Zakladamy, ze plik test.txt istnieje.
+Czy wykona sie polecenie finger ?
+Czy polecenie finger umozliwi rozmowe z uzytkownikiem grzesio ?

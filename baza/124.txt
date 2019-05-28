@@ -1,1 +1,4 @@
-
+X11
+Czy prawdziwe jest ponizsze stwierdzenie?
+Sygnal uzywany do unicestwiania procesow ma numer 9 i jest to jedyny sygnal, który nie moze zostac zignorowany.
+Za pomoca funkcji systemowych mozna tworzyc potoki jednokierunkowe (od procesu A do procesu B), dwukierunkowe (od procesu A do B i od B do A) oraz pierscieniowe (od procesu A do B do C i z powrotem do A).

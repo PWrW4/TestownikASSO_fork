@@ -1,1 +1,4 @@
-
+X01
+Załóżmy, ze mamy poprawnie napisany makefile. Czy polecenie: makefile bez zadnych argumentow spowoduje prawidlowa kompilacje programu ?
+Tak
+Nie

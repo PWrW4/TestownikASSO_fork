@@ -1,1 +1,4 @@
-
+X11
+Wyobrazmy sobie sytuacje, ze wiele procesow wykonuje ten sam program.
+Czy obszar kodu - ze wzgledu na to, ze nie ulega zmianie - moze byc dzielony przez wszystkie te procesy ?
+Czy obszary danych i stosu sa powielone w poszczegolnych procesach ? (powielone tzn. ,ze kazdy proces ma swoj wlasny obszar danych i swoj wlasny stos)

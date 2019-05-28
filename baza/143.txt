@@ -1,1 +1,3 @@
-
+X1
+W celu zamkniecia polaczenia typu SOCK_STREAM - gniazdo w trybie polaczeniowym, mozna uzyc funkcji close(). Mamy wtedy gwarancje, iz wszystkie dane zostana wyslane do gniazda procesu odbiorczego. Moze to objawic sie wstrzymaniem operacji zamykania polaczenia, az wszystkie dane zostana dostarczone.
+Czy w trybie bezpolaczeniowym - gniazdo typu SOCK_DGRAM, gniazdo zostaje zamkniete natychmiast bez czekania na dostarczenie wszystkich danych ?

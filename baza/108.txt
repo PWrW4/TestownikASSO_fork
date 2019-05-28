@@ -1,1 +1,4 @@
-
+X01
+Funkcja socketpair przekazuje
+Dwa deskryptory plików
+Dwa deskryptory gniazd

@@ -1,1 +1,3 @@
-
+X1
+Dane sa dwie instrukcje napisane w jezyku awk. $1=="PWR" {print"Politechnika Wroclawska";} $1    ==    "PWR"    {    print    "Politechnika Wroclawska"    }
+Czy wykonanie ich da ten sam efekt ?
