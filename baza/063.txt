@@ -1,0 +1,5 @@
+X100
+Funkcja pipe() sluzy do:
+Utworzenia potoku
+Uruchomienia podprogramu
+Stworzenia kolejki komunikatow

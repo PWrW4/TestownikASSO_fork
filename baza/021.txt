@@ -1,0 +1,4 @@
+X01
+System RCS zostal stworzony do sledzenia zmian dokonywanych w wielu plikach
+Moze byc stosowany w plikach z rozszerzeniem .doc
+Umozliwia kontekstowe laczenie roznych poprawek tej samej wersji

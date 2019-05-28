@@ -1,0 +1,4 @@
+X10
+Semafor 
+uniemozliwia dwom lub wiekszej liczbie procesow dostep do tego samego zasobu w tym samym czasie
+uniemozliwia dwom lub wiekszej liczbie procesow komunikowanie sie

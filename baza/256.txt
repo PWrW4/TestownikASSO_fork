@@ -1,0 +1,4 @@
+X10
+Dana jest instrukcja:     grep '^[^:]*::' /etc/passwd
+Umozliwia wlamianie sie na konto w przypadku jezeli nie ma hasla
+Umozliwia znalezienie hasˆa z pliku passwd

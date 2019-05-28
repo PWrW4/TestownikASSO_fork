@@ -1,0 +1,4 @@
+X10
+Semafor umozliwia :
+Dostep do tego samego zasobu w tym samym czasie kilku procesom
+Komunikowanie sie z innymi uzytkownikami

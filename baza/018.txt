@@ -1,0 +1,4 @@
+X11
+Czy funkcja select(..,&read,...)
+oczekuje na aktywnosc ktoregos z gniazdek struktury read ?
+gdy do struktury read dolaczymy deskryptor standardowego wejscia, wykryje aktywnosc klawiatury ? (jesli klawiatura jest standardowym wejsciem)

@@ -1,0 +1,4 @@
+X0
+Czy funkcja lockf(..,F_LOCK,0)
+zablokuje rekordy od polozenia aktualnego do poczatku pliku?
+

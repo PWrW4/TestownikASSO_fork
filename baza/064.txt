@@ -1,0 +1,5 @@
+X101
+Za pomoca funkcji systemowej "fork" :
+proces wywolujacy rozdziela sie na dwa pracujace niezaleznie od siebie procesy (macierzysty i potomny)
+uruchamiamy proces systemowy
+proces tworzy nowy proces, ktory jest kopia oryginalu

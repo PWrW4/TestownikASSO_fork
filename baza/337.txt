@@ -1,0 +1,5 @@
+X110
+Odpowiedz na pytania :
+Czy istnieje sposob na jednoczesne sprawdzenie stanu i zajecie semafora ?
+Czy mozna uzyc semaforow do zsynchronizowania procesow ?
+Czy semafory podobnie jak lacza komunikacyjne, kolejki fifo, kolejki komunikatow sluza do wymiany duzych zbiorow danych ?

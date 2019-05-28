@@ -1,0 +1,6 @@
+X1101
+Czy tablice asocjacyjne wykorzystywane w skryptach AWK:
+moga byc indeksowane za pomoca ciagow znakow?
+moga byc wielowymiarowe?
+musza byc deklarowane na poczatku skryptu?
+moga byc indeksowane za pomoca zmiennych?

@@ -1,0 +1,5 @@
+X001
+Funkcja 'open'  w przypadku  niepowodzenia przy otwieraniu pliku zwraca wartosc:
+Numeru bledu IO.
+Liczbe '0'.
+Liczbe '-1'.

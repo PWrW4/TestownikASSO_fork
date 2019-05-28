@@ -1,0 +1,3 @@
+X1
+Czy semafory umzliwiaja:
+blokowanie dostepu do pliku

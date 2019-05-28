@@ -1,0 +1,4 @@
+X10
+Czy to prawda, ze serwer wspolbiezny polaczeniowy uzywa: Jednego gniazda do przyjmowania zadan, i odrebnych gniazd do obslugi poszczegolnych klientow
+Tak
+Nie

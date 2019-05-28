@@ -1,0 +1,4 @@
+X10
+Wydanie polecenia: 'msg n' spowoduje:
+Zablokowanie doplywu komunikatow do uzytkownika.
+Wyslanie komunikatu do uzytkownika o numerze n.

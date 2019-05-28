@@ -1,0 +1,5 @@
+X001
+Kolejki komunikatow sluza do przekazywania komunikatow miedzy procesami.
+Czy za pomoca kolejki komunikatow mozna przekazywac tylko dane w postaci lancucha tekstowego?
+Czy kolejka komunikatow jest zamykana z koncem procesu ktory ja utworzyl?
+Czy ponizsza instrukcja zwroci blad wykonania (wartosc -1) je¿eli istnieje juz kolejka o kluczu 123 ? msgget((key_t)123, 0644 | IPC_CREAT | IPC_EXCL);

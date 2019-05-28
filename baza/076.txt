@@ -1,0 +1,4 @@
+X10
+Program kozystajac z biblioteki curses ma wyswietlic jakis tekst na ekranie. W programie uzyto nastepujacych funkcji:                       initscr();                       echo();                       printw("jakis tekst");                       endwin();                       printf("jakis tekst");
+Czy uzycie funkcji w tej kolejnosci zapewni, ze program bedzie dzialal zgodnie z oczekiwaniami ?
+Czy ten program skompilowany poleceniem 'gcc program.c -o program' bedzie dzialal zgodnie z oczekiwaniami?

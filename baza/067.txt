@@ -1,0 +1,6 @@
+X1100
+Odpowiedz na ponizsze pytania.
+Czy ponizsza instrukcja spowoduje udostepnienie "pliku" wszystkim pozostalym  uzytkownikom ?  chmod 0777 plik
+Czy w jezyku skryptow shell'owych zmienna  $#  zwraca liczbe argumentow, z ktorymi wywolywany byl skrypt ?
+Czy w jezyku skryptow shell'owych instrukcja shift gubi ostatni argument, z ktorym wywolywany byl skrypt?
+Czy ponizsza instrukcja spowoduje wyswietlenie wszystkich linijek rozpoczynajacych sie ciagiem "ala ma kota" z pliku o nazwie "plik"? grep 'ala ma kota$' plik

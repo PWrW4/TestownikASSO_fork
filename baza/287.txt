@@ -1,0 +1,3 @@
+X0
+Dany jest program main() { initscr(); move (LINES/2 - 1,COLS/2 - 4); addstr("Bulls"); refresh(); addstr("Eye"); refresh(); endwin(); }
+Czy funkcja refresh() służy do badania poprawnosci wywietlania obrazu?

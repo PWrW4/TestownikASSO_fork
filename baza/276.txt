@@ -1,0 +1,5 @@
+X101
+System "UNIX" posiada wiele interpreterow komend, podstawowym jest "sh". Czy ktorys z ponizszych jest takze interpreterem komend "UNIX"-owych:
+"csh".
+"ssh".
+"bash".

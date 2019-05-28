@@ -1,0 +1,5 @@
+X010
+Dana jest zawartosc skryptu "scr":     awk '{print $0}' $1. Po uruchomieniu tego skryptu poleceniem:   sh scr tekst
+Wystapi blad.
+Wyswietlona zostanie zawartosc pliku "tekst".
+Wyswietlone zostana pierwsze slowa w liniach pliku "tekst".

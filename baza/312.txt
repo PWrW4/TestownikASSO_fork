@@ -1,0 +1,3 @@
+X1
+Czy biblioteka Curses :
+Jest to zbior procedur umozliwia tworzenie niezaleznych okien ekranowych 

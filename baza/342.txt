@@ -1,0 +1,5 @@
+X100 
+Protokol sterowania transmisja to :
+TCP
+IP
+ICMP

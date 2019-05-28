@@ -1,0 +1,4 @@
+X10
+Kazdy z uzytkownikow systemu Unix , ma zalozone haslo na swoje konto.Czy polecenie passwd sluzy do:
+Zmiany hasla ? 
+Pobrania hasla aktualnie zalogowanego uzytkownika?

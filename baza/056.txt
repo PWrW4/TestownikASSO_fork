@@ -1,0 +1,6 @@
+X1001
+Funkcja lockf() :
+Wymaga 3 parametrow - w kolejnosci lockf(deskryptor_pliku,funkcja,rozmiar)
+Wymaga 3 parametrow - w kolejnosci lockf(funkcja,deskryptor_pliku,rozmiar)
+Wymaga 2 parametrow - w kolejnosci lockf(deskryptor_pliku,rozmiar)
+Jest funkcja umozliwiajaca blokowanie pliku przed zapisem

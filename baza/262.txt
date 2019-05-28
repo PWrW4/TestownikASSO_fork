@@ -1,0 +1,5 @@
+X010
+Plik makefile sluzy do 
+przegladania innych plikow
+skrypt
+kod zrodlowy programu uzytkowego make

@@ -1,0 +1,5 @@
+X100
+Czy protokol ICMP to :
+protokol miedzysieciowych komunikatow sterujacych
+protokol diagramow uzytkownika
+protokol miedzysieciowy 

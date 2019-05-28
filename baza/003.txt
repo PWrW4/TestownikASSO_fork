@@ -1,0 +1,5 @@
+X011
+Czy poprawne bedzie wykonanie skryptu ?
+for x in *.c     begin       .  .  .     end
+cat * | grep money
+for x in *.c     do      . . .     done

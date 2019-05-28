@@ -1,0 +1,5 @@
+X100
+Czy getch() w systemie Unix jest funkcja nastepujacej biblioteki:
+curses.h
+conio.h
+stdio.h

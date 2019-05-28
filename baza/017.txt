@@ -1,0 +1,5 @@
+X100
+Czy proces potomny utworzony funkcja fork() :
+dziedziczy wskaznik na pamiec dzielona ?
+dziedziczy zbior nieodebranych sygnalow?
+dziedziczy blokady plikowe?

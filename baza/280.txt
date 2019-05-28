@@ -1,0 +1,5 @@
+X011
+Gdy zachodzi koniecznosc poslugiwania sie 1 plikiem przez kilka aplikacji. Czy do zabezpieczenia sie w systemie UNIX przed mozliwoscia zapisu w tym samym czasie w to samo miejsce w pliku przez rozne aplikacje można wykorzystac:
+Tylko operacje niskiego poziomu typu: "open","read","write","lseek".                    
+Funkcje "lockf".
+Semafory.

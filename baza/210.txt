@@ -1,0 +1,5 @@
+X001
+Program "grep"
+Sluzy do porownania plikow, ktore powinny byc przedtem posortowane przy pomocy programu "sort".
+Sluzy do wyswietlenia pliku, lecz wstrzymuje wypisywanie po zapelnieniu ekranu.
+Sluzy do wyszukiwania w pliku wierszy zawierajacych okreslony wzorzec.

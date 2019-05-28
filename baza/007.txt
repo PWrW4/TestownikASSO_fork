@@ -1,0 +1,5 @@
+X110
+Czy w celu komunikowania sie miedzy procesami mozna uzywac funkcji ?
+system("...");
+file_deskryptor=fpopen("...","r");
+execute(file_deskryptor,"...");

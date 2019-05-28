@@ -1,0 +1,5 @@
+X110
+polecenie passwd pozwala:
+tworzyc haslo
+zmieniac haslo
+poznac haslo zalogowanego uzytkownika

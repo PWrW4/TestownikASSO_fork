@@ -1,0 +1,4 @@
+X10
+W komunikacji miedzy procesami mozna korzystac z laczy komunikacyjnych tworzonych za pomoca funkcji systemowej  int pipe(int *filedes) Czy funkcja pipe() przekazuje oddzielny file deskryptor  do czytania i oddzielny do pisania ?
+Tak
+Nie

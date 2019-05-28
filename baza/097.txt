@@ -1,0 +1,5 @@
+X101
+Polecenie ls -l spowodowalo wyswietlenie dwoch wierszy    -rw-r--r-- 1 jack jack 316 Feb 14 14:24 toc.gif    -rw-r--r-- 1 jack jack 37 Feb 19 19:48 plik_log
+Czy polecenie ls-l | awk '{print $NF, " ", $1}'  wypisze nazwe pliku, a po niej tylko prawa dostepu?
+Czy polecenie      ls -l | grep -v '.[gif]$'        wypisze tylko pierwszy wiersz?
+Czy polecenie  ls -l | sed 2q > listing   zapisze tylko drugi wiersz w pliku listing?

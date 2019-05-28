@@ -1,0 +1,3 @@
+X0
+Shelle Korona i Bash posiadaja specjalny znak, ktory pozwala zaoszczedzic pisania nazw sciezkowych. Jest to znak '~' (tylda).
+Czy znak '~' oznacza zawsze katalog biezacy?

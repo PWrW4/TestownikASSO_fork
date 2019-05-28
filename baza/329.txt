@@ -1,0 +1,3 @@
+X0
+Dane sš funkcje: open(), lseek(), write().
+Czy wystarczš one do bezpiecznego zapisania danych w systemie UNIX?

@@ -1,0 +1,5 @@
+X011
+Wiadomosc od innych uzytkownikow sieci mozemy uzyskac:
+za posrednictwem write ,gdy mamy ustawiony mesg n
+za posrednictwem wall ,gdy mamy ustawiony mesg y
+za posrednictwem mail ,gdy mamy ustawiony mesg n

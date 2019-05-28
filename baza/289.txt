@@ -1,0 +1,3 @@
+X1
+Klient serwera w swojej pracy używa funkcji connect()
+Czy funkcja ta realizuje połšczenie z serwerem?

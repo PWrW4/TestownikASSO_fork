@@ -1,0 +1,5 @@
+X001
+Jezeli w pliku main.c program RCS napotka ciag znakow   /*    $Id:$   */ 
+nie zrobi nic
+zastapi ja komentarzem
+zastapi ciag numerem wersji

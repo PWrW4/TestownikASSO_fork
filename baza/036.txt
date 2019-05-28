@@ -1,0 +1,4 @@
+X11
+Dana jest funkcja biblioteki curses : mvwin(WINDOW*  okno, int  x, int  y);
+Czy podana deklaracja jest prawidlowa?
+Czy powyzsza funkcja przesuwa okno na ekranie?

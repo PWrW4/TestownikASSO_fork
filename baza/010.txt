@@ -1,0 +1,4 @@
+X11
+Czy warunek :       if test -f fred.c        then         ...        fi
+jest spelniony gdy istnieje plik fred.c ?
+jest rownowazny ponizszemu warunkowi ?      if [-f fred.c]       then        ...       fi

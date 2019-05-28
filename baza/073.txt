@@ -1,0 +1,3 @@
+X1
+Program tell.sh o tresci:   who | grep $1 | wc -l wywolano nastepujaco:      tell.sh Kazio
+Czy program da w wyniku 1 jesli Kazio jest zalogowany w systemie ?

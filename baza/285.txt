@@ -1,0 +1,5 @@
+X100
+Dany jest proces i za pomocš funkcji fork() został on podzielony
+Czy komunikację między tymi procesami można zorganizować przy pomocy funkcji pipe()?
+Czy przy komunikacji między tymi procesami bezwzględnie konieczne jest używanie semaforów?
+Czy przy komunikacji między tymi procesami bezwzględnie konieczne jest używanie gniazdek?

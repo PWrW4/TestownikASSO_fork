@@ -1,0 +1,3 @@
+X0
+Dana jest instrukcja: emacs [nazwa_pliku].
+Czy wykona się ona bezbłędnie w każdym systemie UNIX?

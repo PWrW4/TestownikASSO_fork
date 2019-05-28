@@ -1,0 +1,3 @@
+X1
+Czy wywolanie who | more spowoduje
+Wyswietlenie listy uzytkownikow z podzialem na strony

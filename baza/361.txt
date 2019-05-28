@@ -1,0 +1,4 @@
+X01
+W komunikacji miedzy procesami mozna korzystac z laczy komunikacyjnych tworzonych za pomoca funkcji systemowej  int pipe(int *filedes) Czy lacza komunikacyjne umozliwiaja przeplyw danych w dwoch kierunkach?
+Tak
+Nie

@@ -1,0 +1,4 @@
+X10
+Pliki, ktore posiadaja atrybut uprawniajacy je do wykonywania sie jako programy. 
+Atrybut ten mo¿na nadac dowolnemu plikowi przez nastepujace polecenie: chmod +x plik
+Pliki, które posiadaja odpowiednie rozszerzenia - podobnie jak w systemie DOS.

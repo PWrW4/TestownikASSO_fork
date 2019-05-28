@@ -1,0 +1,4 @@
+X10
+Czy uzywajac gniazda sieciowego: Mozna prowadzic transmisje dwukierunkowa przy pomocy protokolu TCP
+Tak
+Nie

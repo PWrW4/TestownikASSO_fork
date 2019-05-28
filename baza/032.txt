@@ -1,0 +1,6 @@
+X0010 
+Odpowiedz na pytanie:
+Czy protokol UDP sluzy do niezawodnego przesylania informacji?
+Czy usluga FTP sluzy do zdalnego sterowania procesami na innym komputerze?
+Czy protokol  TCP sluzy do niezawodnego przesylania informacji?
+Czy gniazdka moga byc uzywane jako mechanizm komunikacji miedzyprocesowej tylko i wylacznie miedzy programami uruchomionymi na tym samym komputerze?

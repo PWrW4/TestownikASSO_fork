@@ -1,0 +1,5 @@
+X010
+W UNIX istnieja dwie rodziny iterpreterow, do ktorej z nich nalezy bash
+sh
+ssh
+tcsh

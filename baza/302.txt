@@ -1,0 +1,4 @@
+X10
+Czy zawartosc pliku Makefile w postaci: main.o: main.c baza.h baza.o: baza.c baza.h program: main.o baza.o gcc -o program main.o baza.o
+spowoduje poprawne skompilowanie porgramu do pliku wykonywalnego o nazwie "program", przy zalozeniu ze wszystkie pliki "*.c" oraz  "*.h" istnieja i sa poprawnie napisane?
+spowoduje utworzenie programu wykonywalnego o nazwie "baza"? 

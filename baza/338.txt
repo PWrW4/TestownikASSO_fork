@@ -1,0 +1,4 @@
+X10
+Wydano polecene: kill -9 0   Czy:
+Po wywolaniu polecenia konieczne bedzie ponowne zalogowanie sie ?
+Dlatego ze drugim argumentem jest 0 zaden proces nie zostanie zamkniety ?

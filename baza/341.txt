@@ -1,0 +1,4 @@
+X10 
+Odpowiedz na pytania:
+Czy kabel koncentryczny moze byc jedna z warstw sieci ?
+Czy program "cat" sluzy do obslugi myszki ?

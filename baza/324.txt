@@ -1,0 +1,4 @@
+X11
+Dana jest instrukcja: who|wc-l.
+Czy wyświetlaona liczbę urzytkowników aktualnie pracujšcych?
+Czy można ją umieścić w skrypcie shell'owym?

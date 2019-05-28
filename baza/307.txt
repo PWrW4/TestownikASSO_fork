@@ -1,0 +1,6 @@
+X1010
+Czy numer IP serwera to:
+adres serwera w sieci skladajacy sie z czterech 8-bitowych liczb?
+numer seryjny karty sieciowej zainstalowanej w serwerze?
+adres serwera w sieci?
+adres serwera w sieci skladajacy sie z czterech 16-bitowych liczb?

@@ -1,0 +1,4 @@
+X10
+Mamy plik "UNIX" ktory zawiera w sobie 100 linijek tekstu. Czy polecenie: head -10 UNIX | more +4
+Spowoduje wyswietleni 6 kolejnych linijek pliku UNIX poczawszy od 4 linijki
+Wyswietli najpierw 10 pierwszych linijek pliku UNIX a nastepnie wyswietli jeszcze 4 nastepne linijki

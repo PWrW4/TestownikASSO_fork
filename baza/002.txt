@@ -1,0 +1,5 @@
+X011
+Czy skrypty sa ?
+programami samouruchamiajacymi (executable)
+programami uruchamianymi przy uzyciu shella np. sh 'nazwa skryptu'
+plikami tekstowymi

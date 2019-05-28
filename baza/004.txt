@@ -1,0 +1,6 @@
+X0100
+Utworzenie pliku 'makefile' w katalogu roboczym spowoduje, ze ?
+przy kazdym wejsciu do katalogu bedzie sie uruchamial
+bedzie wykonany po uruchomieniu programu 'make', ale tylko w katalogu roboczym
+bedzie wykonany po uruchomieniu programu 'make', bez wzgledu w jakim katalogu jestesmy    
+nigdy nie bedzie wykonany

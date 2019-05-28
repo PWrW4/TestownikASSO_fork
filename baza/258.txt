@@ -1,0 +1,5 @@
+X101
+Interpreter polecen Shell
+Jest jezykiem programowania umozliwiajacym tworzenie wyrafinowanych skryptow do wykonywania zlozonych zadan
+Jest edytorem umozliwiajacym formatowanie tekstow 
+Posiada mechanizmy preprocesora tzn. mechanizmy wstepnego przetwarzania polecen

@@ -1,0 +1,6 @@
+X101
+Czy instrukcja shella:      x="$1"
+spowoduje podstawienie do zmiennej x ciagu znakow podanych jako pierwszy parametr wywolania skryptu ?
+Czy gdy wywolamy ten skrypt jako: sh skrypt tekst nr 1     to zmienna x przyjmie wartosc "tekst nr 1"?
+Czy gdy wywolamy ten skrypt jako: sh skrypt "tekst nr 1"     to zmienna x przyjmie wartosc "tekst nr 1" ?
+

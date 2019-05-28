@@ -1,0 +1,4 @@
+X01
+Standardowa biblioteka wejcia/wyjscia stdio.h zawiera funkcje fopen() Czy nastepujace wywolanie otworzy plik "ala" w trybie tylko do zapisu? fopen (ala, "rb+")
+Tak
+Nie

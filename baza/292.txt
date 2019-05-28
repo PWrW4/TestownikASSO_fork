@@ -1,0 +1,3 @@
+X0
+Potomek zalozyl blokade przy pomoca funkcji lockf(file, F_LOCK, 0); na piku otwartym przez rodzica przed podzialem.
+Czy rodzic sprawdzajac blokade instrukcja lockf(file, F_TEST, 0); otrzyma informacje o braku blokady?

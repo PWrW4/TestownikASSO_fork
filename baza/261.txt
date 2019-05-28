@@ -1,0 +1,5 @@
+X010
+Po wydaniu polecenia "gcc -c main.c " otrzymamy plik wynikowy
+main.obj
+main.o
+a.out

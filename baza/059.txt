@@ -1,0 +1,4 @@
+X10
+Kolejki w systemie Unix sluza do
+Realizacji komunikacji klient-serwer
+Laczenia sie z innym komputerem

@@ -1,0 +1,4 @@
+X0
+Dana jest instrukcja: open(kotki,O_RDONLY).
+Czy za jej pomocš będzie można do pliku 'kotki' dopisać dane ze zmiennej: char  buf[SIZE]?
+ 

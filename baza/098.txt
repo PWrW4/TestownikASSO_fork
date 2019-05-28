@@ -1,0 +1,5 @@
+X101
+Odpowiedz czy nastepujace stwierdzenia sa prawdziwe.
+Polecenie   cat ewa basia > ania przepisze zawartosc plikow ewa i basia do pliku ania.
+Polecenie  mail kumpel > liscik spowoduje wyslanie do uzytkownika kumpel listu z pliku liscik.
+Polecenie   chmod 500 machina odbiera prawa do zapisu wszystkim uzytkownikom (poza adminem).

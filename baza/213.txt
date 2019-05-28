@@ -1,0 +1,5 @@
+X111
+Funkcja "lockf" w postaci:   lockf(fd,F_TLOCK,0)
+Sprawdza, czy obszar od pozycji w pliku do jego konca jest zajety.
+Zajmuje obszar od pozycji w pliku do jego konca, jezeli nie byl on wczesniej zajety.
+Nie czeka, az zajety obszar pliku zwolni sie.

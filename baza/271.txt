@@ -1,0 +1,5 @@
+X001
+Po wywolaniu programu uzytkowego grep 'text' *.c zostanie wyswietlona
+lista wszystkich plikow zawieraca 'text'
+lista pliku nie posiadajaca 'text'
+lista plikow o rozszerzeniach .c zawierajacych 'text'

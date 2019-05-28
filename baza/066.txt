@@ -1,0 +1,5 @@
+X010
+Protokol transmisji to :
+TP (Transfer Protocole)
+TCP
+FIFO

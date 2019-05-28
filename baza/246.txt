@@ -1,0 +1,5 @@
+X110
+Zakonczenie pracy w systemie operacyjnym UNIX jest mozliwe przez
+logout
+kill -9 0
+quit

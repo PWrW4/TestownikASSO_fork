@@ -1,0 +1,5 @@
+X010
+Jaki efekt uzyskamy wpisujac w linii polecen komende:     cat *.c | more
+Czy koleno ekran po ekranie wypisana zostanie lista plikow z rozszerzeniem "c" w katalogu biezacym?
+Czy kolejno ekran po ekranie wypisana bedzie zawartosc wszystkich plokow z rozszerzeniem "c" ?
+Czy usuniete zostana wszystkie pliki z rozszerzeniem "c" z katalogu biezacego?

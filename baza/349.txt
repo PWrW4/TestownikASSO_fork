@@ -1,0 +1,5 @@
+X001
+Czy wyrazenie " $ echo Tylko czesc linii\\c zostanie wypisana. " zastosowane w skrypcie spowoduje wyswietlenie komunikatu:
+"Tylko czesc linii" i przejscie kursora do nastepnej linii
+"Tylko czesc linii\\c zostanie wypisana" i przejscie kursora do nastepnej linii 
+"Tylko czesc linii" i pozostanie kursora w biezacej linii         

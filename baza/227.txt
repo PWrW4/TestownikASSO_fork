@@ -1,0 +1,4 @@
+X01
+Protokol UDP jest stosowany obok TCP w polaczeniach sieciowych za pomoca gniazd. Czy prawda jest ze: Protokol UDP zapewnia retransmisje komunikatow w przyp ich niedostarczenia?
+Tak
+Nie

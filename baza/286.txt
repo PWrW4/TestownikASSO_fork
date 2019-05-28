@@ -1,0 +1,4 @@
+X11
+Dany jest plik main.c należy go skompilować
+Czy program gcc to kompilator języka C?
+Czy w procesie kompilacji konieczne jest używanie programu linkujšcego?

@@ -1,0 +1,4 @@
+X100
+Czy wbudowane w system UNIX kolejki komunikatow mozemy wykorzystac do:
+Komunikacji miedzy klientem i serwerem pisanej przez nas aplikacji.
+Wysylania komunikatow do serwera "UNIX"-owego o naszych problemach i usterkach systemu. Laczenia sie z innym komputerem.

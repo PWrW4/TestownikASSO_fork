@@ -1,0 +1,4 @@
+X00
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Program make i pliki typu makefile stworzono tylko do uzytku z jezykiem C/C++.
+Zalozmy ze mamy otwarty plik, i jego deskryptorem jest fd. Plik ma dlugosc 100 bajtow. Polecenie:    lockf(fd, F_LOCK, 100);  zablokuje mozliwosc dopisywania na koncu pliku.

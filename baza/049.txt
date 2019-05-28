@@ -1,0 +1,4 @@
+X10
+Rodzine protokolow TCP/IP:
+Mozna zastosowac w sieciach lokalnych i rozleglych.
+Mozna uzywac, ale nie na kazdym sprzecie.

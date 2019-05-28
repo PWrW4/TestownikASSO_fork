@@ -1,0 +1,3 @@
+X0
+W programie korzystajacym z biblioteki obslugi terminal CURSES czy prawdziwe sa nastepujace stwierdzenia?
+Funkcja nodelay() powoduje wylaczenie buforowania dostepu do terminala,   a wiec urzycie funkcji drukujacych na terminalu spowoduje natychmiastowe wyswietlenia tekstu.

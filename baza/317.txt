@@ -1,0 +1,3 @@
+X0
+Czy program RCS sluzy do:
+kontroli skladni skryptow

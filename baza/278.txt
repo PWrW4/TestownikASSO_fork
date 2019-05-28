@@ -1,0 +1,5 @@
+X011
+Ponizszy "makefile" dla plikow "a.c" i "b.c" w poprawny  sposob napisanych w jezyku "C": a.o : a.c gcc -c a.c b.o : b.c gcc -c b.c c: a.c b.c gcc -o c a.o b.o      spowoduje przy wywolaniu programu "make":
+Poprawne skompilowanie projektu.
+Poprawne skompilowanie pliku "a.o"
+Poprawne skompilowanie pliku "b.o"

@@ -1,0 +1,4 @@
+X10
+Dana jest instrukcja:     sed 'skrypt1' pliki
+Pobiera po jednej linii z plikow, poddaje kazda linie edycji zgodnie z  liste polecen zawartych w 'skrypt1', poczym wyprowadza dane na standardowe wyjscie
+Przeszukuje strumien danych i wyprowadza wiersze zawierajace 'skrypt1'

@@ -1,0 +1,3 @@
+X0
+Dany jest fragment skryptu:if ["$1"="t"] then echo "Jakis tekst" endif Ma on za zadanie wyswietlic podany napis jesli zawartosc zmiennej pamietanej pod $1 zawiera lancuch "t"
+Czy podany fragment jest zapisany poprawnie skladniowo?

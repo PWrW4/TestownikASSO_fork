@@ -1,0 +1,5 @@
+X01
+Czy ponizsze zdania sa prawdziwe:
+Wywolanie polecenia "sed '/wzorzec/q'" spowoduje wyslanie pliku 'q' z katalogu 'wzorzec' do administratora systemu
+W programie napisanym dla  AWK mozna zmienic separator pola
+

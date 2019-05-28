@@ -1,0 +1,6 @@
+X0100 
+Odpowiedz na pytania :
+UNIX odroznia gniazdko sieciowe od pliku ?
+Czy powtorne uzycie gniazdka sieciowego moze oznaczac zmiane odbiorcy ?
+Czy gniazdka podobnie jak kolejki ograniczone sa do transmisji jednokierunkowej
+Czy istnieje mozliwosc pobrania z kolejki dowolnego komunikatu bez utraty komunikatow go poprzedzajacych ?

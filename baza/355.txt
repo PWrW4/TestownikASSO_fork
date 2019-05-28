@@ -1,0 +1,5 @@
+X010
+W systemie V IPC wystepuja ponizsze 3 rodzaje komunikacji miedzyprocesowej
+kolejki komunikatow,flagi,key'e
+kolejki komunikatow, semafory, pamiec wspolna
+kolejki komunikatow, flagi, pamiec wspolna

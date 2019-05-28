@@ -1,0 +1,5 @@
+X101
+Funkcje zdefiniowoane w bibliotece curses umozliwiaja:
+Utworzenie okienka tekstowego na terminalu z wlasnym kursorem
+Stworzenie kolejki, dzieki ktorej na terminal mozna wysylac teksty
+Buforowanie operacji wysylania tekstow na ekran.

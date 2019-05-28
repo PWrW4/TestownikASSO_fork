@@ -1,0 +1,5 @@
+X100
+Polecenie shellowe :     Cat Cos > sed 10q zadziala nastepujaco:
+Z pliku Cos przepusci pierwsze 10 lini
+W 10 linijce pliku Cos wpisze 'sed'
+Odczyta plik Cos 10 razy przy wywolaniu podanym z klawaitury 'q'

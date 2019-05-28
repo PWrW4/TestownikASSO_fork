@@ -1,0 +1,3 @@
+X1
+Jezyk awk posiada szereg wbudowanych zmiennych, ktore sluza do przechwywania informacji zwiazanych z wykonywaniem programu
+Czy zmienna - FS zawiera separator pola?

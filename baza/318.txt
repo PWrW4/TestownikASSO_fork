@@ -1,0 +1,3 @@
+X1
+czy program RCS sluzy do:
+jest to system zapamietujacy rozne wersje danego pliku(programu)

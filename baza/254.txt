@@ -1,0 +1,5 @@
+X101
+Instrukcja Awk i Nawk
+Jest programem dopasowywania wzorca i sluzy do przetwarzania plikow, szczegolnie jezeli sa to bazy danych
+Nie wykonuje polecen UNIX-a ze skryptu
+Moze przetwarzac wynik wykonania polecen UNIX-owych

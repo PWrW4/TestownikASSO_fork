@@ -1,0 +1,5 @@
+X100
+Aby skompilowac (pod Unix-em) program napisany o nazwie Cos.c napisany w jezyku C i otrzymac      program wynikowy Cos.exe nalezy wydac polecenia:
+gcc -o Cos.exe Cos.c
+cat Cos.c > awk '{Cos.exe}'
+gcc -c Cos.c     gcc -o Cos.exe Cos.c

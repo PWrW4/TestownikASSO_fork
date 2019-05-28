@@ -1,0 +1,5 @@
+X110
+Funkcja systemowa 'fork':
+Tworzy kopie procesu, ktory byl wykonywany.
+Wywolana raz (przez proces macierzysty) przekazuje wartosc dwukrotnie (potomkowi i przodkowi).
+Wywolana raz (przez proces macierzysty) przekazuje procesowi potomnemu numer identyfikacyjny nowo utworzonego procesu potomnego. 

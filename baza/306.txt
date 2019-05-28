@@ -1,0 +1,5 @@
+X10
+Czy stala F_TLOCK wykorzystywana przy wywolaniu funkcji LOCKF
+powoduje ze funkcja wykona test czy dany region pliku jest zablokowany?
+powoduje ze funkcja wykona test czy dany region pliku jest zablokowany i dodatkowo gdy okaze sie ze dany region jest zablokowany funkcja dokona jego odblokowania?
+ 

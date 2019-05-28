@@ -1,0 +1,3 @@
+X1
+Czy kolejki w systemie Unix sluza do
+realizacji prostej komunikacji klient-serwer?

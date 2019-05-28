@@ -1,0 +1,5 @@
+X100 
+Po wywolaniu komendy ls -l otrzymalismy liste plikow w bierzacym katalogu: drwxr-xr-- 2 henio group 1024 Feb 24 12:11 olek -rwxrwxr-- 1 henio ezi3 4176 Jan 16 21:17 teczka Czy :
+Ktos z grupy ezi3 moze zmienic cos w pliku teczka ?
+Wszyscy moga uruchomic program teczka ?
+Po wykonaniu polecenia "who >> teczka" zmieni sie liczba plikow w bierzacym katalogu ?

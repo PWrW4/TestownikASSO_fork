@@ -1,0 +1,3 @@
+X0
+Chcesz wywołać z danego pliku linijki nie zawierajšce wyrazu 'kaszka' i majšce więcej, niż 5 wyrazów.
+Czy do tego nadaje się program 'grep'?

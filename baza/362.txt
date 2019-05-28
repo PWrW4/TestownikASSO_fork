@@ -1,0 +1,4 @@
+X10
+Jedna z metod komunikacji miedzy procesami w systemie UNIX sa kolejki komunikatow. Czy mozna ustalic uprawnienia dostepu do kolejki  komunikatow ?
+Tak
+Nie

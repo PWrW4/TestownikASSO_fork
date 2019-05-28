@@ -1,0 +1,5 @@
+X111
+Filtr "awk" to filtr ktory umozliwia:
+Filtrowanie danych ze strumienia wejsciowego.
+Tworzenie wlasnych zmiennych i tablic.
+Pisanie programow w jego wewnetrznym jezyku.

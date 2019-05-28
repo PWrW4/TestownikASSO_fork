@@ -1,0 +1,6 @@
+X100
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Proces moze wysylac sygnaly nie tylko do innych procesow, ale tak¿e do samego siebie .
+Potoki zapewniaja komunikacje dwukierunkowa.
+Procesy komunikujace sie za pomoca kolejek komunikatow musza byc uruchomione w tym samym czasie (musza byc ze soba zsynchronizowane).
+

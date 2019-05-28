@@ -1,0 +1,4 @@
+X11
+Czy funkcja nastepujacej deklaracji :  int system (const char  *string);
+moze uruchomic nowy proces?
+Czy mozemy sie spodziewac ze przekazany przez nas string nie bedzie modyfikowany?

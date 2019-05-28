@@ -1,0 +1,4 @@
+X01
+Potoki nazwane (FIFO) sa stosowane do komunikacji miedzyprocesowej. Czy prawda jest ze: Jeden potok moze byc otworzony przez ten sam proces do odczytu i zapisu jednoczesnie w celu przesylania komunikatow
+Tak
+Nie

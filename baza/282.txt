@@ -1,0 +1,5 @@
+X110
+System "UNIX" posiada siedem warstw komunikacji sieciowej. System wykorzystuje w warstwie czwartej (transportowej) odpowiednie protokoly komunikacji. Czy sa to miedzy innymi:
+"TCP".
+"UDP".
+"IPX".

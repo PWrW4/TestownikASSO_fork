@@ -1,0 +1,6 @@
+X11
+Czy wykozystujac protokol TCP dziedziny Internetu, uzywajac gniazda
+zdefinowanego w nastepujacy sposob: gniazdo = socket(AF_INET, SOCK_STREAM, IPPROTO_TCP)
+Mozna zrealizowac komunikacje procesow dzialajacych na jednym komputerze?
+Mozna zrealizowac niezawodna komunikacje procesow dzialajacych na roznych komputerach polaczonych siecia?
+ 

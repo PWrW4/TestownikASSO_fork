@@ -1,0 +1,5 @@
+X010
+W programie wykorzystano funkcje lockf() w nastepujacy sposob:lockf(fd, F_LOCK, 0); gdzie fd to deskrypto pliku. Czy to prawda, ze...
+spowoduje ona odblokowanie calego pliku
+spowoduje ona zablokowanie calego pliku ?
+nie spowoduje to zadnych zmian blokad w podanym pliku

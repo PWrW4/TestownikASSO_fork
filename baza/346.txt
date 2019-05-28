@@ -1,0 +1,5 @@
+X110 
+Czy za pomoca funkcji systemowej pipe - int pipe(int *filedes) :
+tworzy sie lacze komunikacyjne
+przekazuje sie dwa deskryptory pliku (filedes[0]-otwarty do czytania i filedes[1]-otwarty do pisania)
+przekazuje sie dwa deskryptory gniazd

@@ -1,0 +1,5 @@
+X100 
+Masz program zawarty w następujšcych plikach:  calc.h, main.c, getop.c, stack.c, getch.c. Jedynie plik 'getop.c' nie jest jeszcze poprawnie skompilowany. Właśnie wprowadzasz do niego poprawki i chcesz sprawdzać na bieżąco,czy są poprawne.
+Czy pomocny Ci będzie do tego pakiet 'make'?
+Czy pomocny Ci będzie do tego system kontroli wersji RCS?
+Czy pomocny Ci będzie do tego 'sed'?

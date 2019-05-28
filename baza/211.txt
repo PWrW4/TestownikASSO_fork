@@ -1,0 +1,5 @@
+X010
+W katalogu znajduja sie nastepujace pliki: tekst_1, tekst_2, tekst_b. Polecenie "echo" w postaci:  echo t*
+Wyswietli na ekranie tekst: t*
+Wyswietli na ekranie tekst: tekst_1 tekst_2 tekst_b
+Wyswietli na ekranie tekst: t

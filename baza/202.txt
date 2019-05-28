@@ -1,0 +1,4 @@
+X01
+Czy program grep czyta dane ze strumienia wejsciowego znak po znaku ?
+Tak
+Nie

@@ -1,0 +1,4 @@
+X01
+Funkcja systemowa fork() tworzy kopie procesu, z którego zostala wywolana. Proces wywolujacy nazywa sie procesem macierzystym , a nowy proces-potomnym.
+Czy funkcja fork() zwraca identyfikator procesu macierzystego?
+Czy funkcja fork() jest jedynym sposobem utworzenia nowego procesu w systemie UNIX ?

@@ -1,0 +1,4 @@
+X10
+Czy program AWK  :
+umozliwia korzystanie z tablic asocjacyjnych
+jest filterm strumieniowym

@@ -1,0 +1,4 @@
+X10
+Polecenie gcc -o klient klient.c klientfunk.c:
+Spowoduje stworzenie pliku wykonywalnego klient na podstawie 2 podprogramow :    klient.c i klientfunk.c
+Spowoduje stworzenie pliku klient.o na podstawie 2 podprogramow klient.c i klientfunk.c

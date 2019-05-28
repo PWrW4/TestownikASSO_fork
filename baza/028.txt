@@ -1,0 +1,3 @@
+X0 
+Odpowiedz na ponizsze pytanie :
+Czy biblioteka curses uzaleznia program od rodzaju terminala, na jakim bedzie uzywany

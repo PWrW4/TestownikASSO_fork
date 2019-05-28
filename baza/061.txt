@@ -1,0 +1,5 @@
+X011
+Funkcja msgsnd():
+Pozwala tylko na zapisanie do kolejki bez oczekiwania na potwierdzenie odbioru
+Umozliwia za pomoca odpowiednich flag oczekiwania lub nie czekania na potwierdzenie odbioru
+Wiadomosc odbiora wszyscy podpieci do kolejki jesli ich czwarty parametr funkcji msgrcv() jest rowny 0

@@ -1,0 +1,5 @@
+X100
+W katalogu bierzacym mamy nastepujace pliki: plik.c,plik.h,plik.w w których wystepuje linijka ze zdaniem "Unix to jest to". Czy polecenie:  grep Unix *.[ch]
+Wyswietli :	plik.c:Unix to jest to    plik.h:Unix to jest to
+Wyswietli :    plik.c    plik.h
+Nic nie wyswietli bo nie ma zadnego pliku z rozszerzeniem "ch"

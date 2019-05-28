@@ -1,0 +1,4 @@
+X01
+Kolejki komunikatow sa jednym z mechanizmow IPC. Czy prawda sa nastepujace stwierdzenia:
+Kolejki komunikatow moga przyjmowac komunikaty o dowolnej ustalonej przez uzytkownika wielkosci
+Funkcja listen() zmusza system do kolejkowania nadchodzacych komunikatow

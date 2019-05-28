@@ -1,0 +1,4 @@
+X11
+Wiekszosc komunikacji sieciowej odbywa sie na zasadzie client-server.
+Czy instrukcja :   listen(socket_fd); przelacza serwer w tryb czekania na rzadanie polaczenia od clienta ? 
+Czy po dostaniu rzadania polaczenia od clienta serwer otwiera nowe gniazdko do komunikacji z tym clientem ?

@@ -1,0 +1,5 @@
+X100
+Co zrealizuje ponizsze instrukcje:#define KODE ((key_t) 123456789L) int ID; ID=msgget(KODE,IPC_CREAT);
+Stworzy kolejke komunikatow (jesli nie istniala wczesniej) i zwroci wartosc identyfikatora kolejki
+Jesli kolejka taka juz istnieje to zostanie ona usunieta i na jej miejsce zostanie stworzona nowa kolejka
+Stworzy kolejke komunikatow (jesli nie istniala wczesniej) i nie zwroci zadnej wartosci poniewz klucz (KODE) jest identyfikatorem kolejki

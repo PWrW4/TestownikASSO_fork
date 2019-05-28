@@ -1,0 +1,5 @@
+X111
+Jezeli prawa dostepu do pliku zostana okreslone w nastepujacy sposob: -r-------- to:
+W pliku nie mozna dokonywac jakichkolwiek zmian.
+Wlasciciel moze skasowac plik.
+Czytac plik moze jedynie wlasciciel.

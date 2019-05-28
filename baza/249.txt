@@ -1,0 +1,5 @@
+X100
+Czy program make:
+ulatwia prace podczas kompilowania programu w jezyku C ?
+sam znajduje zaleznosci miedzy plikami ?
+tworzy liste plikow do usuniecia ?

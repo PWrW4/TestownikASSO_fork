@@ -1,0 +1,4 @@
+X10
+Polecenie ls -l wyswietla dla pliku "x" nastepujaca informacje o uprawnieniach: -rwx--x---
+Czy wlasciciel pliku ma prawo  do zapisu i odczytu ?
+Czy takie uprawnienia mozna nadac plikowi wywolujac polecenie chmod 642

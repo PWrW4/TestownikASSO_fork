@@ -1,0 +1,4 @@
+X01
+Czy podproces procesu nadrzednego: Dziedziczy lub wspoldzieli wszystkie atrybuty i zasoby procesu nadrzednego 
+Tak
+Nie

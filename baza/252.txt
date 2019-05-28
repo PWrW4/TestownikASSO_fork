@@ -1,0 +1,5 @@
+X10
+Czy blokowanie plikow i rekordow dobrowolne daje nam pewnosc ich zablokowania ?
+Tak, pod warunkiem, ze wszystkie programy w systemie beda uzywaly takiego 
+sposobu blokowania.
+Nie

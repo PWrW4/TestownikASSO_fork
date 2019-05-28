@@ -1,0 +1,5 @@
+X110
+Funkcja systemowa popen - File *popen(char *command, char *type)   
+tworzy lacze komunikacyjne
+inicjuje wykonywanie drugiego procesu, aby albo czytal z lacza, albo do niego pisal
+zmienia katalog biezacy procesu

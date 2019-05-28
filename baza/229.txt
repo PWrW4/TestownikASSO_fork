@@ -1,0 +1,4 @@
+X01
+Czy prawdziwe sa nastepujace stwierdzenia: W SunRPC dopuszczalny jest dowolny tryb autentykacji uzytkownika, za wyjatkiem anonimowego.
+Tak
+Nie

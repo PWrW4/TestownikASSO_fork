@@ -1,0 +1,5 @@
+X001
+Czy (zaznacz poprawne pytania)
+podczas korzystania z biblioteki curses.h mozna stosowac funkcje printf i scanf ?
+program klient tworzy kolejke komunikatow do komunikacji z serwerem ?
+instrukcja lockf informuje o wyniku blokowania pliku lub rekordu ? 

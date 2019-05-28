@@ -1,0 +1,5 @@
+X100
+Mamy zadeklarowana strukture jak ponizej   typedef struct { long mtype; char *mtext; } Bufor;     Po deklaracji Bufor.mtype=5; Bufor.mtext="Lala" (zakladajac, ze kolejka jest zalozona pod IDKol) znajduje sie polecenie msgsnd(IDKol,&Bufor,sizeof(Bufor),IPC_NOWAIT). Jak powinna  wygladac procedura serwera, ktory za zadanie ma przyjac wiadomosc wyslana wyzej (powinien  dostac napis "Lala").
+msgrcv(IDKol,&Bufor,sizeof(Bufor),5,IPC_NOWAIT);
+msgctl(IDKol,IPC_NOWAIT,&Bufor);
+msgrcv(IDKol,&Bufor,sizeof(Bufor),1,IPC_RMID);

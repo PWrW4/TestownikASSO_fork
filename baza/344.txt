@@ -1,0 +1,5 @@
+X010
+Co wyswietla polecenie "grep -l wzorzec [plik(i)]"
+tylko linie, ktore nie zawieraja wzorca
+tylko nazwy plikow, w ktorych znaleziono linie odpowiadajace podanemu wzorcowi
+blokuje wyswietlanie komunikatow o bledach przy dostepie do plikow

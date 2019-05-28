@@ -1,0 +1,4 @@
+X00
+W programie uzyto funkcje lockf() jak ponizej:  lockf(fd, FLOCK, 0); gdzie fd to deskryptor pliku.
+Czy zablokuje ona caly plik?
+Czy funkcja ma poprawne parametry?

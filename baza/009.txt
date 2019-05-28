@@ -1,0 +1,4 @@
+
+X0
+Dane jest polecenie : ps >> lsoutput.txt .
+Czy polecenie to zastapi zawartosc pliku lsoutput.txt wynikiem dzialania komendy ps?

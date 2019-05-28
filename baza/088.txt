@@ -1,0 +1,5 @@
+X100
+Podczas uzywania biblioteki "curses" i korzystania z niej mamy mozliwosc tworzenia okienek, ktore to:
+Podczas tworzenia sie, zakladaja sobie wirtualny kursor.
+Po przejsciu z okienka do innego wczesniej zalozonego okiennka (w ktorym byly wykonywane operacje) kursor 0 swoja pozycje w okienku do którego przeszlismy.
+nie maja kursorow, az do wywolania ich poleceniem inicjujacym "initscr();".

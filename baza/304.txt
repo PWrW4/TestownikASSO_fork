@@ -1,0 +1,5 @@
+X010
+Czy program ping sluzy
+do przesylania plikow binarnych pomiedzy serwerami?
+sluzy do pomiaru czasu opoznienia przy komunikowaniu sie z innym serwerem?
+do zdalnego administrowania odleglym serwerem?

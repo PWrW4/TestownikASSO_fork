@@ -1,0 +1,3 @@
+X1
+Dany jest fragment kodu: int gniazdo; gniazdo = socket(AF_UNIX,  SOCK_STREAM,  0);
+Czy powyzsze wywolanie utowrzy gniazdo?

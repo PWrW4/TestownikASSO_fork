@@ -1,0 +1,5 @@
+X001
+Plik terminfo sluzy do:
+przechowania informacji o komputerze
+zbior z haslami
+plik z informacjami o terminalu

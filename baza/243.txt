@@ -1,0 +1,5 @@
+X110
+Ktore z podanych zestawow komend spowoduje zliczenie linijek w pliku noname.txt i zapisanie wyniku do wynik.txt
+wc -l < noname.txt >wynik.txt
+wc -l > wynik.txt < noname.txt
+noname.txt >wc -l >wynik.txt

@@ -1,0 +1,5 @@
+X110
+Czy program grep: (Zaznacz prawdziwe pytania)
+nadaje sie do stworzenia listy naszych dluznikow jesli dokumentacje zapisujemy  w plików formacie: nazwisko;imie;ZALEGA/NIE ZALEGA;wielkosc pozycki;termin splaty; ?
+umozliwia definiowanie skomplikowanych wzorcow poszukiwania ?
+nalezy dotej samej grupy programow co program vi ?

@@ -1,0 +1,5 @@
+X011
+Odpowiedz czy nastepujace stwierdzenia sa prawdziwe.
+Funkcja    open (name, RDWR)      otworzy plik do czytania i pisania.
+Funkcja    open (O_WRONLY)  zwroci -1 w przypadku wystapienia bledu.
+Funkcja exit lub instrukcja return w funkcji main powwduje zamkniecie wszystkich otwartych plikow.

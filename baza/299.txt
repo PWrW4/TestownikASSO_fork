@@ -1,0 +1,5 @@
+X101
+Czy ciag polecen: mkdir ezi3 chmod 700 ezi3
+spowoduje ze mozliwy bedzie zapis i odczyt plikow w katalogu ezi3?
+spowoduje ze wszyscy uzytkownicy beda mieli jednakowe uprawnienia w dostepie do katalogu ezi3?
+spowoduje ze wlasciciel konta bedzie mial pelny dostep do katalogu ezi3?

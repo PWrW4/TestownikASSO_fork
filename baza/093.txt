@@ -1,0 +1,4 @@
+X01
+Do operacji na strumieniu danych sluzy miedzy innymi awk. W jaki sposob indeksuje on tablice na ktorych operuje?
+Indeksowanie tablic w awk odbywa sie w sposob liczbowy.
+Tablice w uzywane przez awk sa tablicami asocjacyjnymi, ktore mozna indeksowac dowolnymi wartosciami np. lancuchami znakowymi

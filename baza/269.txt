@@ -1,0 +1,5 @@
+X010
+Czy RCS  jest systemem 
+archiwizowania danych
+kontroli wersjii
+wbudowanym edytorem tekstu

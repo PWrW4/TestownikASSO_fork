@@ -1,0 +1,3 @@
+X0
+Czy aby kozystac z procedur komunikacji miedzyprocesowej :
+nalezy dolaczyc odpowiednie biblioteki

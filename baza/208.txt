@@ -1,0 +1,5 @@
+X010
+Polecenie "cat" w postaci:  cat plik1 plik2 > plik3
+Zmienia zawartosc pliku "plik1"
+Laczy pliki "plik1" oraz "plik2" i umieszcza laczna zawartosc w pliku "plik3"
+Dopisuje pliki "plik1" oraz "plik2" do pliku "plik3"

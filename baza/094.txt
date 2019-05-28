@@ -1,0 +1,4 @@
+X10
+Dane jest polecenie sed  '/wzorzec /q' ala.txt. Jaki skutek ono odniesie?
+Wyswietli zawartosc pliku ala.txt do linii zawierajacej podany wzorzec.
+Wyswietli wszystkie linie pliku ala.txt zawierajace podany wzorzec.

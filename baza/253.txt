@@ -1,0 +1,4 @@
+X10
+Mamy linijke w programie: lockf(3,F_LOCK,10). Czy:
+mozna w niej zamienic tekst F_LOCK na liczbe ?
+spowoduje ona sprawdzenie i zablokowanie w pliku 10 bajtow ?

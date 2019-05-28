@@ -1,0 +1,4 @@
+X10
+Biblioteka curses sluzy do obslugi okien.
+Czy biblioteka ta jest niezalezna od platformy sprzetowej ?
+Czy ponizsze polecenie nalezace do zbioru funkcji tej biblioteki spowoduje wykasowanie zawartosci ekranu do konca bierzacej linii?  :     clrtobot();

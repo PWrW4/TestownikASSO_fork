@@ -1,0 +1,5 @@
+X001
+Proces "a" zablokowal rekord "x" w pliku uzywajac funkcji lockf()
+Czy wywolanie funkcji lockf(..., F_TEST, ...) (sprawdzenie zablokowania) dla rekordu "x", przez proces "a", wykaze zablokowanie rekordu?
+Czy proba zapisu rekordu "x", przez proces "b", przy uzyciu funkcji write() spowoduje blad?
+Czy wywolanie funkcji lockf(...,F_TEST,...) dla rekordu "x",przez proces  "b", wykaze zablokowanie rekordu ?

@@ -1,0 +1,5 @@
+X010
+W celu zapewnienia ochrony pliku do zapisu/odczytu z którego korzysta kilku uzytkownikow w jezyku C stosuje sie funkcji ?
+f_lock(file_deskryptor,rozmiar,rodzaj_operacji);
+lockf(file_deskryptor,rodzaj_operacji,rozmiar);
+lock_f(rozmiar,rodzaj_operacji,file_deskryptor);

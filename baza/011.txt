@@ -1,0 +1,3 @@
+X0
+Czy warunek :       if ["$x" = "[Tt]|[Ft][Aa][Kk]"]        then         ...        fi
+jest spelniony gdy zmienna x ma wartosc "TAk"?

@@ -1,0 +1,5 @@
+X100
+Czy ponizsza flaga umozliwia w funkcj msgctl() zlikwidowanie kolejki komunikatow
+IPC_RMID jako drugi parametr funkcji msgctl()
+IPC_RMID jako trzeci parametr funkcji msgctl()
+IPC_REMOVE jako drugi parametr funkcji msgctl()

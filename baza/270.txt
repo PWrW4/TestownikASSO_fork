@@ -1,0 +1,5 @@
+X001
+Po wywolaniu ls -al pojawia sie -rw------ 1 users users 254 Jan 21 14:11 plik  co sie zmieni po wywolani chmod plik 765 plik
+-rwxrwxrwx 
+drw-------
+-rwxrw-r-x

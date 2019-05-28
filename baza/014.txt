@@ -1,0 +1,4 @@
+X11
+Czy funkcja - wrefresh(w_one) ...
+spowoduje wyswietlenie tylko zmodyfikowanych znakow z okienka w_one ?
+gdy wczesniej wywolamy funkcje - touchwin(w_one) spowoduje wyswietlenie calego okienka ?

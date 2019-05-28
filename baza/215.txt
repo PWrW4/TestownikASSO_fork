@@ -1,0 +1,5 @@
+X101
+Do wyszukiwania w pliku wierszy zawierajacych okreslony wzorzec mozna uzyc:
+programu "grep"
+programu "wc"
+programu "awk"

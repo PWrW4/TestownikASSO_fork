@@ -1,0 +1,6 @@
+X001
+Biblioteka curses.h jest uniwersalna biblioteka obslugi terminali. Czy nastepujace stwierdzenia sa prawdziwe:
+Funkcja keypad() wlacza/wylacza obsluge bloku numerycznego klawiatury rozszerzonej terminala?
+Nastepujacy programu wyswietli w oknie migajacy tekst "Ala ma kota"?
+void main (){WINDOW *okno=newwin (10, 5, 20, 15);printw ("Ala ma kota");wrefresh (okno); wattron (A_BLINK);endwin (okno);}
+Zadna z powyzszych

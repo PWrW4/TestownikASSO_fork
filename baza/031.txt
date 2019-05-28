@@ -1,0 +1,4 @@
+X00
+Czy semafor...
+umozliwia dostep do jednego zasobu dwom procesom w tym samym czasie
+jest zmienna plikowa tak jak np. potok

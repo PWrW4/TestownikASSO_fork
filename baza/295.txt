@@ -1,0 +1,5 @@
+X11
+Jesli uzywamy systemu RCS to:
+Czy uzycie komendy: ci file spowoduje usuniecie pliku "file"  i objecie go kontrola systemu RCS ?
+Czy dodanie do pliku, pozostajacego pod kontrola RCS, symboli: $Id$
+spowoduje zastapienie go info na temat wersji pliku,dacie modyfikacji i autorze ?

@@ -1,0 +1,5 @@
+X111
+Serwer w czasie swojej pracy używa funkcji socket(), bind(), listen(), accept(), read(), write()
+Czy funkcja socket() tworzy gniazdko połączeniowe?
+Czy funkcja listen() zamusza system do kolejkowania i buforowania komunikatów?
+Czy funkcja accept() realizuje oczekiwanie na przyjscie zgłoszenia?

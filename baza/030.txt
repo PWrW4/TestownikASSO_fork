@@ -1,0 +1,4 @@
+X01
+Czy funkcja pause()...
+czeka az uzytkownik nacisnie dowolny klawisz
+czeka na dowolny sygnal ?

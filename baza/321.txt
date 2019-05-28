@@ -1,0 +1,3 @@
+X0
+Odpowiedz na pytanie:
+czy lockf(fd,F_LOCK,0) zaklada zabezpieczenie  przed zapisem do pliku do aktualnego miejsca do konca lini

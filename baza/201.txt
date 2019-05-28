@@ -1,0 +1,4 @@
+X01
+Dany jest adres internetowy w postaci numerycznej 156.17.5.1 czy jest to siec klasy A ?
+Tak
+Nie

@@ -1,0 +1,3 @@
+X1
+Czy pole sin_addr.s_sddr struktury sockaddr_in ...
+zawiera adres IP interfejsu sieciowego, z ktorego serwer akceptuje komunikacje 

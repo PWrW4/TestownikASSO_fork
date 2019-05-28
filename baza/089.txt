@@ -1,0 +1,5 @@
+X100
+Do zablokowania fragmentu pliku w Unix-ie mamy dostepna funkcje systemowa    locking(fd,tryb,offset). Jakiego trybu trzeba uzyc (np. F_UNLOCK) aby blokada dopuszczala    wykonywanie operacji odczytu przez inne procesy ?
+F_RLOCK
+F_LOCK
+F_UNLOCK

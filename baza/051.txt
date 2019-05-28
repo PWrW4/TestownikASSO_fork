@@ -1,0 +1,6 @@
+X1001
+awk jest:
+Programem dopasowywania wzorca i przetwarzania plikow
+Programem do archiwizacji danych
+filtrem strumieniowym
+Programem posiadajacym wlasny jezyk do przetwarzania danych

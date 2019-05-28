@@ -1,0 +1,4 @@
+X10
+Za pomoca zmiennych parametrycznych mozna przekazywac argumenty wywolania  do skryptu. Czy prawda jest ze:
+$0 jest nazwa skryptu powloki ?
+polecenie shift powoduje ze argument $2 staje sie $3, $3 staje sie $4,... (przesuwa w gore)?

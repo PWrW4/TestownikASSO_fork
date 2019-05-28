@@ -1,0 +1,5 @@
+X100
+Czy ponizsza komenda uruchomi skrypt o nazwie "skrypt"
+sh skrypt
+execute skrypt
+ssh skrypt

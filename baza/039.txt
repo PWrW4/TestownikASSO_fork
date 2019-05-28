@@ -1,0 +1,4 @@
+X00
+Wywolanie systemowe fork towrzy nowy proces potomny.
+Czy prawda jest, ze nie jest mozliwe odroznienie procesu potomnego od macierzystego?
+Czy to prawda ze tylko przestrzen danych(zmienne) nie jest dziedziczona po procesie macierzystym?

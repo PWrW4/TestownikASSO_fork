@@ -1,0 +1,8 @@
+
+X01100
+Proces jest jednym z podstawowych pojec w systemie UNIX.
+Czy funkcje rodziny exec umozliwiaja stworzenie nowego procesu dzialajacego rownoczesnie z procesem wywolujacym?
+Czy proces zombi jest procesem potomnym, ktory skonczyl sie gdy jego proces rodzicielski nie oczekiwal jego zakonczenia ?
+Czy  za pomoca sygnalu mozna przywrocic zawieszony proces ?
+Czy ponizsza instrukcja spowoduje kontynuacje procesu o numeze PID, jesli byl on wczesniej wstrzymany?  :            kill(PID,SIGTERM);
+Czy wszystkie sygnaly moga byc zignorowane lub przechwycone (obsluzone przez procedure uzytkownika)?

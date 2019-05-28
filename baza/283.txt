@@ -1,0 +1,3 @@
+X1
+Baza danych o numerzch telefonów gromadzi wszystkie dane w kilku plikach. Poniewarz dane nie sš posegregowane i ludzie o tych samych imionach i nazwiskach znajdujš się w różnych miejscach należy dane posegregować i umiecić w jednym pliku. Pliki z danymi znajdujš się w osobnym katalogu i majš końcówkę "tel".
+Czy program "awk" nadaje się do tego celu?

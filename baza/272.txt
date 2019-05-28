@@ -1,0 +1,5 @@
+X011
+Czy LINUX jest
+systemem kopatybilnym z MSDOS
+uproszczona odmiana UNIX
+darmowym systemem operacyjnym

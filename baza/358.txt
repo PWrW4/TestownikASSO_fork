@@ -1,0 +1,5 @@
+X010
+Polecenie: ls -l | awk '{ system("cp $9 tolower($9)") }' spowoduje:
+Kopiuje pliki zawierajace w poczatkowej czesci nazwy 9 dodajac do nazwy slowo tolower.
+Kopiuje wszystkie pliki w katalogu zmieniajac ich nazwy na male litery.
+Wyswietla wszystkie pliki w katalogu zawierajace lancuch: system("cp $9 tolower($9)")

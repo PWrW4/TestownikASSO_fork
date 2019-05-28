@@ -1,0 +1,5 @@
+X001
+Najnizsza warstwa w modelu ISO/OSI odpowiada za
+protokol transmisji 
+wysylanie i adresowanie pakietow
+fizyczne polaczenie miedzy komputerami

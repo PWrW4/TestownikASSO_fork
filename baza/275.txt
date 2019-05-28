@@ -1,0 +1,5 @@
+X010
+Co to jest system operacyjny "UNIX".
+System kompatybilny z systemem "DOS" 7.0.
+Wielozadaniowy system operacyjny przeznaczony do pracy w sieciach komputerowych.
+System operacyjny czasu rzeczywistego.

@@ -1,0 +1,5 @@
+X001
+W programie korzystamy z semafora i przyjmuje on wartosci 
+0->256
+0-16mln
+0 lub 1

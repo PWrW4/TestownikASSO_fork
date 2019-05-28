@@ -1,0 +1,4 @@
+X10
+Wsystemie nieustannie pracuje baza danych o telefonach, która może być jednocześnie modyfikowana z wielu źródeł.
+Czy program obsługujšcy bazę powinien używać funkcji lockf()?
+Czy program obsugujšcy bazę powinien bezwzględnie używać operacji na semaforach?

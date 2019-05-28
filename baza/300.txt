@@ -1,0 +1,5 @@
+X111
+Czy w celu zalogowania sie na inny serwer mozna uzyc polecenia: (zakladajac ze dane uslugi zostaly udostepnione uzytkownikom)
+telnet nazwa_serwera
+ssh nazwa_serwera
+rlogin nazwa_serwera

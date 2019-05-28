@@ -1,0 +1,5 @@
+X110
+Czy RCS:
+sluzy do kontroli wersji pisanych programow ?
+umozliwia laczenie roznych wersji programow ?
+automatycznie zapisuje w archiwizowanych plikach nr wersji oraz date ?

@@ -1,0 +1,5 @@
+X100
+Proces zalozyl blokade na otwartym pliku o deskryptorze 'file' instrukcja: lockf(file, F_LOCK, 0);
+Sprawdzenie istnienia blokady funkcja:  lockf(file, F_TEST, 0);  przez ten sam proces zwroci informacje o braku blokady o ile inny proces nie zalozyl blokady.
+Proces podzielil sie instrukcja fork(). Czy potomek sprawdzajac istnienie blokady otrzyma informacje o braku blokady?
+Czy potomek moze zdiac blokade zalozona w procesie rodzica?

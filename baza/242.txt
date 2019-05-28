@@ -1,0 +1,4 @@
+X01
+Wyrozniamy adresowanie internetowe
+symboliczne o domenie skladajcej sie z 4 bajtow
+numeryczne o trzech roznych klasach A, B i C

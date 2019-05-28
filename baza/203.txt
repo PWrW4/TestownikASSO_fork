@@ -1,0 +1,4 @@
+X10
+Czy program grep umozliwia tworzenie zlozonych wzorcow za pomoca znakow uogolniajacych ?
+Tak
+Nie

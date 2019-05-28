@@ -1,0 +1,3 @@
+X1
+Dane sš dwie instrukcje: mkdir tomek mkdir Tomek.
+Czy utworzš one dwa katalogi?

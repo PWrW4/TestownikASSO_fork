@@ -1,0 +1,3 @@
+X1
+Funkcja socket() sluzy do utworzenia nowego gniazda. Czy wywolanie funkcji int Fd = socket(AF_INET,SOCK_DGRAM,0):
+Tworzy gniazdo strumieniowe

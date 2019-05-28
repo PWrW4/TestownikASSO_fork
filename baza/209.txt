@@ -1,0 +1,5 @@
+X010
+Polecenie "tail" w postaci:       tail -15 plik
+Wyswietla 15 ostatnich znakow pliku "plik".
+Wyswietla 15 ostatnich wierszy pliku "plik".
+Kasuje 15 ostatnich wierszy pliku "plik".

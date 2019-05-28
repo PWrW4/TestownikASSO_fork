@@ -1,0 +1,4 @@
+X10
+Czy w skryptach awk mozna stosowac: tablice asocjacyjne, ktore sa indeksowane zmiennymi lub ciagami znakow ? 
+Tak
+Nie

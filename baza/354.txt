@@ -1,0 +1,5 @@
+X100
+Wyrazenia    if (lseek(deskr,0L,2)==-1) syserr("lseek");  mozna uzyc do :
+znalezienia konca pliku
+znalezienia poczatku pliku
+znalezienia biezacej pozycji pliku  

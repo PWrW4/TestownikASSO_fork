@@ -1,0 +1,5 @@
+
+X01
+Warstwa kanalowa protokolow OSI obluguje:
+warstwe sesji i warstwe prezentacji.
+warstwe sieciowa.

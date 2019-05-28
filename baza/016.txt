@@ -1,0 +1,3 @@
+X1
+Czy wywolanie funkji signal(SIGCHLD,SIG_IGN);
+zapobiegnie powstaniu procesu zombie, gdy proces maciezysty nie odczyta ststusu potomka ?

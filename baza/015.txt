@@ -1,0 +1,4 @@
+X01
+Czy funkcja exec(...) ...
+powoduje utworzenie nowego procesu?
+zastepuje kod biezacego procesu kodem do którego sciezke podano w argumencie ?

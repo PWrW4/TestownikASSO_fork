@@ -1,0 +1,5 @@
+X100
+Mamy plik o zawartosci: #include <curses.h> #include <math.h> void main(void) { initscr(); .... endwin();} Czy funkcja endwin wykona:
+zamknie wszystkie okna    
+zamkniecie tylko aktywnego okna 
+zmknie najwieksze okno

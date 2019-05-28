@@ -1,0 +1,4 @@
+X01
+Jaki rezultat spowoduje polecenie " $ grep nie list "
+wypisze liczbe linii z pliku list zawierajacych slowo "nie"
+wypisze wszystkie linie z pliku list zawierajace slowo "nie"

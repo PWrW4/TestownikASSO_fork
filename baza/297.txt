@@ -1,0 +1,4 @@
+X10
+Proces "a" posiada otwarty plik o deskryptorze "file".Po podzieleniu sie procesu funkcja fork() potomek "b"  przesuwa wskaznik pliku funkcja lseek(file, ...)
+Czy w procesie macierzystym - "a" wskaznik pliku bedzie takze przesuniety ?
+Czy kiedy potomek "b" zamknie plik funkcja close(file), bedzie on zamkniety takze w procesie "a"?

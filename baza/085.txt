@@ -1,0 +1,4 @@
+X10
+W Unix-e tak jak i w innych systemach operacyjnych (np. DOS) mozemy zobaczyc drzewo powiazan   poszczegolnych katalogow, plikow, itp. Czy po przemieszczeniu pliku np. Lala.exe z katalogu  /usr do katalogu /usr/temp drzewo to:
+trzeba odswiezyc za pomoca polecenia shellowego - rehash.
+trzeba uzyc polecenia echo - n aby zobaczyc aktualny stan polaczen.

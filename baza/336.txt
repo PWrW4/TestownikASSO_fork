@@ -1,0 +1,4 @@
+X10
+Adres w postaci numerycznej: 222.11.4.6    Czy:
+Oznacza on siec klasy C ?
+Trzeci bajt jest bajtem numeru komputera ?   

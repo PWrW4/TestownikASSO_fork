@@ -1,0 +1,5 @@
+X100
+Czy program "grep" jest?
+Programem filtruj¹cy, dane
+graficznym edytorem tekstu (GRaphics Editors Professional)
+nie ma takiego programu

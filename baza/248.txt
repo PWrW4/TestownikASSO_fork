@@ -1,0 +1,5 @@
+X100
+Ile warstw w modelu warstwowym sieci ma fizyczne polaczenie ?
+1
+1 lub 2
+2

@@ -1,0 +1,5 @@
+X001
+Kazdy system Unix'owy posiada:
+Edytor tekstu EMACS.
+Graficzne srodowisko 'X-Window'.
+Edytor tekstu VI.

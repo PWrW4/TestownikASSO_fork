@@ -1,0 +1,5 @@
+X011
+Czy program RCS jest programem ?
+kontroli zapisu i odczytu
+archwizujacym dane
+kontroli wersji

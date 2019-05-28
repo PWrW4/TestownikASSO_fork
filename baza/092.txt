@@ -1,0 +1,4 @@
+X10
+Dane jest polecenie cp -p ala.txt /kot. Jaki skutek ono przyniesie?
+Skopiuje plik ala.txt do katalogu /kot, przy czym kopia bedzie miala te same prawa dostepu oraz czas modyfikacji co oryginal
+Spowoduje wyswietlenie zapytania o potwierdzenie zastapienia istniejacego juz pliku w wyspecyfikowanym katalogu /kot, a mianowicie: overwrite /kot/ala.txt?

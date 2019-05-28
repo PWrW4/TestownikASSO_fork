@@ -1,0 +1,5 @@
+X100
+Aby firma byla pewna,ze jej dane nie zostana odczytane (przez kogos) przed ich kolejnym uaktualnieniem, programista, ktory zaprogramowal serwer, powinien:
+Przed ponowna aktualizacja okreslonych danych zabezpieczyc w/w dane przed odczytem przez  innych uzytkownikow zakladajac semafor.
+Odlaczyc serwer od uzytkownikow, zaktualizowac dane, nastepnie ponownie zalogowac wszystkich  uzytkownikow.
+Zablokowac kolejki komunikatow, az do uaktualnienia okreslonych danych a nastepnie odblokowac kolejki.

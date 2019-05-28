@@ -1,0 +1,5 @@
+X100
+Program "grep" jest:
+uniwersalnym programem przeznaczonym do wyszukiwania w pliku wierszy zawierajacych okreslony  wzorzec.
+programem sluzacym do wyszukiwania i zamiany znakow, ale tylko pojedynczych lub okreslonego      zestawu takich znakow.
+uniwersalnym programem porownujacym dwa pliki i wyszukujacym roznice miedzy nimi.???  Jakie pliki w systemie UNIX sa wykonywalne?

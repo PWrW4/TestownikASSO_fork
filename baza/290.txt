@@ -1,0 +1,10 @@
+X0001011
+W systemie znajduje się skrypt używajšcy poleceń who, line, pc, users
+Czy będš różnice w dzialaniu trgo programu pod sh i csh?  ??? Czy prawda jest...
+W katalogu pelnym plikow z rozszerzeniami *.c i *.h polecenie: $ ls -l | grep *.[ch] wyswietli wszystkie pliki z tymi rozszerzeniami znajdujace sie w katalogu.
+Program "grep" umozliwia modyfikacje tresci przetwarzanego pliku, np. przez zmiane kolejnosci wyrazow.
+Czy program dla "awk" moze skladac sie z samych warunkow - bez deklaracji odpowiadajacych im akcji (np. ls -l plik | awk '$5>10000') ?
+Czy mozliwe jest uzyskanie klucza do kolejki komunikatow z gwarancja, ze nie ma i nie bedzie procesu, ktory dostal by ten sam klucz do kolejki i urzywajac jej zaklucal by komunikacje?
+Czy potok jest narzedziem typu FIFO - gwarantuje zachowanie kolejnosci informacji z wejscia na wyjscu ?
+Czy przy pomocy polecenia POPEN mozna miedzy procesami nawiazac komunikacje  w obu kierunkach (bez pomocy innych narzedzi do komunkacji miedzy   procesami)?
+Nadejsie sygnalu SIGINT dla procesu, ktory nie obsluguje tego sygnalu, tzn. nie ma funkcji - handlera, domyslnie spowoduje przerwanie procesu.

@@ -1,0 +1,4 @@
+X01
+Wykonanie komendy  chmod 741 noname.txt spowoduje, ze plik bedzie mial atrybuty
+prawo do czytania, pisania i wykonania dla wlasciciela, prawo do czytania dla grupy oraz prawo do uruchomienia dla innych
+prawo do czytania, pisania i wykonania dla wlasciciela, pisanie dla grupy oraz wykonanie dla innych

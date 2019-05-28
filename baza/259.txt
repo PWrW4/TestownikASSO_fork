@@ -1,0 +1,5 @@
+X010
+Dany jest fragment programu sluzacy do komunikacji miedzy procesami int deskryptor_gniazda; deskryptor_gniazda=socket(AF_UNIX,SOCK_STREAM,0); bind(deskryptor_gniazda,"gniazdo",sizeof("gniazdo")-1); listen(deskryptor_gniazda,1);
+W chwili wywolania funkcji socket tworzone jest polaczenie miedzy procesami
+W chwili zaakceptowania polaczenia jadro umieszcza przychodzace zadania w kolejce, zanim bedzie moglo je obsluzyc
+W wyniku dzialania powyzszej czesci programu nastepuje polaczenie miedzy procesami;

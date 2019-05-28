@@ -1,0 +1,4 @@
+X10
+W katalogu biezacym znajduja sie nastepujace pliki    -rwxr-x--x        1 piotr    406  Jun 4 10:30 plik1    -rwxr-----        1 piotr    129  Jun 1 11:29 plik2\    -rw-r-x---        1 piotr     29  Jun 1 11:00 plik3    Uzytkownik Kazio nalezy do tej samej grupy co piotr.
+Czy Kazio moze odczytywac wszystkie 3 pliki z katalogu biezacego ?
+Czy inni uzytkownicy i root moga je wykonywac?

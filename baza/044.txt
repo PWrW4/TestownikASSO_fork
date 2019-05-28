@@ -1,0 +1,4 @@
+X01
+Wywolanie programu 'grep' w nastepujacy sposob:  $ grep '\.'dane , spowoduje:
+Znalezienie w pliku '\.' wierszy zawierajacych lancuchy 'dane'.
+Znalezienie w pliku 'dane' wiersze zawierajace znak kropki.

@@ -1,0 +1,5 @@
+X110
+W modelu ISO/OSI cztery pierwsze warstwy to ?
+system("...");
+file_deskryptor=fpopen("...","r");
+execute(file_deskryptor,"...");

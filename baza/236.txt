@@ -1,0 +1,5 @@
+X110
+Protokol TCP jest protokolem sieciowym, komunikacja w tym protokole opiera sie na gniazdkach. (Zaznacz poprawne pytania)
+Czy protokol TCP moze sluzyc do przesylania danych pomiedzy kilkoma procesami na jednym komputerze ?
+Czy protokol TCP zapewnia niezawodnosc przesylania danych ?
+Czy na jednym porcie mozna zarejestrowac kilka roznych aplikacji serwerow?

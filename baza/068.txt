@@ -1,0 +1,5 @@
+
+X00
+Funkcja open sluzy w jezyku C do otwierania plikow. Jezeli otwarcie pliku powiedzie sie zwroci ona deskryptor pliku.
+Czy w razie niepowodzenia funkcja zwroci wartosc 0?
+Czy otwarcie pliku przy uzyciu funkcji open z flagami O_WONLY | O_CREAT niepowiedzie sie w przypadku, gdy plik ten juz istnieje?

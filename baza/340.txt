@@ -1,0 +1,4 @@
+X01
+Fragment programu kozystajacego z f-cji lockf : ... if( lockf( fd, F_TEST, size) == 0) ... Czy:
+Wywolanie to spowoduje sprawdzenie czy obszar w podanym pliku jest zajety i jesli jest wolny zajecie go ?
+wywolanie z F_LOCK jako drugi argument moze spowodowac wstrzymanie bierzacego procesu ? 

@@ -1,0 +1,4 @@
+X10
+Jedna z metod komunikacji miedzy procesami w systemie UNIX sa kolejki komunikatow. Czy z jednej kolejki komunikatow moze jednoczesnie korzystac kilka oddzielnych procesow ?
+Tak
+Nie

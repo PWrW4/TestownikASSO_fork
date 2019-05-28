@@ -1,0 +1,5 @@
+X010
+Wydanie polecenia :  $ more +100 plik  ,   spowoduje:
+Przegladanie pliku 'plik' od pozycji o numerze 100.
+Przegladanie pliku od wiersza nr 100.
+Przegladanie pliku po 100 wierszy na ekranie

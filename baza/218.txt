@@ -1,0 +1,4 @@
+X10
+Dane jest polecenie: grep -l POSIX * Czy polecenie to da w wyniku nazwe pliku, ktorego zawartosc pasuje do wzorca POSIX ?
+Tak
+Nie

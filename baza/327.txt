@@ -1,0 +1,3 @@
+X1
+Chcesz wywołać z danego pliku linijki nie zawierajšce wyrazu 'kaszka'.
+Czy do tego nadaje się program 'grep'?

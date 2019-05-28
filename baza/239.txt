@@ -1,0 +1,5 @@
+X010
+Komenda   echo " `tty` ' = tty"     spowoduje :
+wyswietlenie znakow   "tty = tty" 
+wyswietlenie twojego akutalnego nr terminala oraz znakow " = tty" 
+wyswietlenie znakow  " `tty` = tty" 

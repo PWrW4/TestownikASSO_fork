@@ -1,0 +1,3 @@
+X0
+Oto fragment programu: #include <curses.h> main() { initscr(); move(LINES/2-1,COLS/2-4); addstr("Bulls"); refresh(); addstr("Eye"); refresh();        endwin(); }.
+Czy wyświetli on dwa wyrazy: "Bulls" i "Eye" w dwóch różnych oknach?

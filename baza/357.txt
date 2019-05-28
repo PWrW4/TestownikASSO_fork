@@ -1,0 +1,6 @@
+X100
+Wykonanie polecenia: grep -l include *.[ch]
+Wyszukuje pliki znajdujace sie w biezacym katalogu, z rozszerzeniem "c" lub "h", zawierającym slowo "include".
+Kasuje wszystkie plik o rozszerzeniu "ch" zawierajace slowo "include"
+Zlicza linie w ktorych wystepuje slowo include w plikach o rozszerzeniach "c" lub "h".
+ 

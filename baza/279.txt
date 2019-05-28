@@ -1,0 +1,3 @@
+X0
+Biblioteka "curses" umozliwia tworzenie okienkowych interfejsow do pisanych przez nas aplikacji.
+Czy biblioteka ta pozwala na wspoluzytkowanie ekranu przez 2 rozne aplikacje.

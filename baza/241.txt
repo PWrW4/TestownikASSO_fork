@@ -1,0 +1,5 @@
+X010
+Pierwsza linijka w skrypcie shellowym o nastepujacej zawartosci #!/bin/csh -f  jest
+komentazem ze  skrypt najlepiej dziala pod zadanym shellem
+wywolaniem podanego shella i uruchomienie w nim skryptu
+instrukcja kompilacji skryptu do podanej nazwy i sciezki

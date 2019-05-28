@@ -1,0 +1,5 @@
+X110
+Komenda awk charakteryzuje sie tym, ze
+posiada wlasny jezyk pozwalajacy na przetwarzanie danych
+pozwala wykorzystywac wbudowane funkcje matematyczne
+pozwala kompilowac programy napisane w ANSI C

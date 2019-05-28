@@ -1,0 +1,4 @@
+X01
+Czy ponizszy program bedzie dzialac w systemie UNIX 4.3 BSD,  jesli tak to co bedzie wynikiem jego dzialania: #include <stdio.h> #include <conio.h> main(){ clrscr(); printf("Komunikat"); getch();}
+Bedzie dzialac. Po wyczyszczeniu ekranu zostanie wyswietlony 'komunikat'.
+Nie bedzie dzialac, poniewaz biblioteka 'conio.h' nie jest dostepna w systemach Unix'owych.

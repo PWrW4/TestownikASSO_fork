@@ -1,0 +1,5 @@
+X011
+Odpowiedz czy nastepujace stwierdzenie jest prawdziwe.
+Przy komunikacji poprzez gniazda zaleca sie uzywanie portow o numerach ponizej 1024.
+Ponizsze funkcje sa zwiazane z komunikacja poprzez gniazda: listen(),   connect(),    accept() .
+W TCP uzywa sie typu SOCK_STREAM, a w UDP SOCK_DGRAM .

@@ -1,0 +1,6 @@
+X1010
+Zaznacz odpowiedz prawdziwa:
+Czy RCS pozwala na archiwizacje wielu wersji tego samego pliku?
+czy program gcc jest debbugerem ? 
+czy wywolanie funkcji systemowej "fork" rozdziela proces na dwa podprocesy?
+Czy uzywajac pamieci wspolnej jako techniki komunikacji miedzyprocesowej informacje wymieniane miedzy dwoma procesami musza przechodzic przez jadro ?

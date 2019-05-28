@@ -1,0 +1,5 @@
+X101
+Czy nastepujace zdanie jest prawdziwe:
+Protokol - IP jest protokolem niskiego poziomu, sluzacym do transmisji pakietow.
+W adresie klasy A dwie poczatkowe liczby numeru okreslaja sama siec, a nastepne dwie identyfikuja komputer.
+Do generowania procedury lacznika klienta oraz lacznika serwera stosuje sie kompilator - rpcgen wchodzacy w sklad systemu Sun RPC.

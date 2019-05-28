@@ -1,0 +1,6 @@
+X1110
+Wybierz komende, ktora  spowoduje zawsze przejscie do katalogu domowego uzytkownika
+cd 
+cd $HOME 
+cd ~ 
+cd /home/user 

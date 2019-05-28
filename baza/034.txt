@@ -1,0 +1,3 @@
+X1
+Nastepujacy symbol '[]' jest operatorem wyrazen regularnych akceptowanym przez sed-a.
+Czy zapis [0-9] jest rownowazny zapisowi [0123456789]?

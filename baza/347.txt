@@ -1,0 +1,4 @@
+X10
+Funkcja systemowa msgget sluzy do :
+tworzenia nowej kolejki komunikatow albo uzyskiwania dostepu do istniejacej kolejki
+tworzenia znacznikow praw dostepu do kolejki komunikatow

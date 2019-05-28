@@ -1,0 +1,4 @@
+X10
+Czy po otwarciu kolejki FIFO :
+dane sa odczytywane w kolejnosci ich zapisywania
+raz odczytane dane moga byc ponownie pobrane

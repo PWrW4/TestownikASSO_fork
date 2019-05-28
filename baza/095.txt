@@ -1,0 +1,4 @@
+X10
+W jaki sposob zorganizowane sa okna tekstowe w bibliotece curses.h?
+Okna zorganizowane sš w strukture WINDOW, do ktorej adres zwraca funkcja *WINDOW newwin(int,int,int,int).Komunikacja z oknem nastepuje tylko poprzez urzycie jego adresu.
+Funkcja newwin tworzy nowe aktualne okno, w ktorym beda wyswietlane wszystkie informacje wysylane na ekran.

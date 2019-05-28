@@ -1,0 +1,5 @@
+X001
+W jezyku skryptow, instrukcja "for" w postaci:   for i in 'ls'   do    chmod a+x $i    done
+Nie jest poprawnie napisana.
+Wyswietla na ekranie liste plikow z biezacego katalogu.
+Powoduje zmiane praw dostepu do wszystkich plikow z biezacego katalogu.

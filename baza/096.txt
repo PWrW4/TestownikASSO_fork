@@ -1,0 +1,4 @@
+X10
+Funkcja lockf() sluzy do zarzadzania dostepem do danych w pliku ktorego uchwyt jest jej argumentem. Wybierz, ktore z ponizszych twierdzen jest prawdziwe.
+Funkcja blokuje tylko fragment pliku okreslony przez aktualna pozycje w pliku, oraz liczbe blokowanych bajtow podawana jako parametr funkcji.
+Funkcja bezwarunkowo blokuje zawartosc calego pliku.

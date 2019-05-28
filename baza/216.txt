@@ -1,0 +1,5 @@
+X011
+Polecenie:   rm plik1 || rm plik2 spowoduje:
+Skasowanie pliku "plik1" oraz pliku "plik2".
+Skasowanie pliku "plik2" jezeli nie istnieje plik "plik1".
+Skasowanie pliku "plik1" jezeli taki plik istnieje.

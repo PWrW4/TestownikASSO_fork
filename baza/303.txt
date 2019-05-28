@@ -1,0 +1,5 @@
+X100
+Czy system RCS posiada mozliwosc
+zarzadzania poszczegolnymi wersjami programu pisanego wspolnie przez wielu programistow?
+kompilowania programu?
+wymaga zalozenia w katalogu roboczym programu katalogu o naziwe "RCS"?

@@ -1,0 +1,5 @@
+X001
+Do utworznia podprocesu stosujemy
+fp=fopen("nazwa","tryb"); 
+wgetch(*WINDOW);
+fp=popen("nazwa","tryb");

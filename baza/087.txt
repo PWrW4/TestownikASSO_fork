@@ -1,0 +1,5 @@
+X100
+Plik o nazwie "Makefile" sluzy do:
+Okreslenia polecen kompilatora, ktore maja byc wykonywane na plikach, ktore aktualnie sa pisane przez programiste, przy wywolaniu make. Plik ten musi sie znajdowac w katalogu, w  ktorym zajduja sie wyzej wymienione pliki.
+Sluzy do zakladania nowych plikow w systemie operacyjnym Unix.
+Wywolanie "make" powoduje, ze system zaczyna wykonywac wszystkie polecenia zawarte w pliku "Makefile".

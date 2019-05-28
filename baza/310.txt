@@ -1,0 +1,3 @@
+X0
+Czy wywolanie takiego typu  p1 | p2 spowoduje:
+Uruchomienie 2 programow (p1 i p2) i polaczenie wejscia pierwszego (p1) z wyjsciem drugiego (p2)

@@ -1,0 +1,4 @@
+X10
+Czy semafor jest to mechanizm pozwalajacy zapobiegac sytuacjom, w ktorych co najmniej dwa procesy maja rownoczesny dostep do dzielonych zasobow ?
+Tak
+Nie

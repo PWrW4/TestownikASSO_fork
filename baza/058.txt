@@ -1,0 +1,5 @@
+X110
+Funkcja endwin() :
+Spowoduje zamkniecie wszystkich otworzonych okien
+Jest funkcja biblioteki <curses.h>
+Spowoduje zamkniecie tylko aktualnie aktywnego okna
